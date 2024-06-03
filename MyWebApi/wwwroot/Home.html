@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <script src="../Scripts/Home.js"></script>
+    <link href="Style/Home.css" rel="stylesheet" />
+    <!--<script src="Home.js"></script>
+    <script src="User.js"></script>-->
+    <title></title>
+</head>
+<body>
+
+
+    <div id="login">
+        <div>
+            <input id="UserName" placeholder="username" />
+        </div>
+        <div>
+            <input id="Password" placeholder="password" type="password"/>
+        </div>
+        <div>
+            <button onclick="handelLogin()">Login</button>
+        </div>
+    </div>
+
+    <button onclick="showReg()">not in?</button>
+
+    <span id="reg" style="display: none">
+        <div>
+            <input id="FirstName" placeholder="first_name" />
+        </div>
+        <div>
+            <input id="LastName" placeholder="last_name" />
+        </div>
+        <div>
+            <input id="UserNameReg" placeholder="username" />
+        </div>
+        <div>
+            <input id="EmailReg" placeholder="email" />
+        </div>
+        <div>
+            <input id="PasswordReg" placeholder="password" type="password" oninput="checkStrong(PasswordReg.value)" />
+            <input id="check" style="background-color:red" />
+        </div>
+        <div>
+            <button id="register" style="display: none" onclick=" handelRegister({ firstName: FirstName.value, lastName: LastName.value, userName: UserNameReg.value, password: PasswordReg.value, id: 0,Email:EmailReg.value})">Register</button>
+        </div>
+    </span>
+
+</body>
+</html>

@@ -1,0 +1,149 @@
+M:\WepApi\PROJECT\MyWebApi\Service\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+M:\WepApi\PROJECT\MyWebApi\Service\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+M:\WepApi\PROJECT\MyWebApi\Service\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+M:\WepApi\PROJECT\MyWebApi\Service\obj\Debug\net8.0\Services.AssemblyInfo.cs
+M:\WepApi\PROJECT\MyWebApi\Service\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+M:\WepApi\PROJECT\MyWebApi\Service\bin\Debug\net8.0\Services.deps.json
+M:\WepApi\PROJECT\MyWebApi\Service\bin\Debug\net8.0\Services.dll
+M:\WepApi\PROJECT\MyWebApi\Service\bin\Debug\net8.0\Services.pdb
+M:\WepApi\PROJECT\MyWebApi\Service\bin\Debug\net8.0\Entities.dll
+M:\WepApi\PROJECT\MyWebApi\Service\bin\Debug\net8.0\Repositories.dll
+M:\WepApi\PROJECT\MyWebApi\Service\bin\Debug\net8.0\Entities.pdb
+M:\WepApi\PROJECT\MyWebApi\Service\bin\Debug\net8.0\Repositories.pdb
+M:\WepApi\PROJECT\MyWebApi\Service\obj\Debug\net8.0\Services.csproj.CopyComplete
+M:\WepApi\PROJECT\MyWebApi\Service\obj\Debug\net8.0\Services.dll
+M:\WepApi\PROJECT\MyWebApi\Service\obj\Debug\net8.0\refint\Services.dll
+M:\WepApi\PROJECT\MyWebApi\Service\obj\Debug\net8.0\Services.pdb
+M:\WepApi\PROJECT\MyWebApi\Service\obj\Debug\net8.0\ref\Services.dll
+M:\WepApi\PROJECT\MyWebApiWithDTO\Service\bin\Debug\net8.0\Services.deps.json
+M:\WepApi\PROJECT\MyWebApiWithDTO\Service\bin\Debug\net8.0\Services.dll
+M:\WepApi\PROJECT\MyWebApiWithDTO\Service\bin\Debug\net8.0\Services.pdb
+M:\WepApi\PROJECT\MyWebApiWithDTO\Service\bin\Debug\net8.0\Entities.dll
+M:\WepApi\PROJECT\MyWebApiWithDTO\Service\bin\Debug\net8.0\Repositories.dll
+M:\WepApi\PROJECT\MyWebApiWithDTO\Service\bin\Debug\net8.0\Entities.pdb
+M:\WepApi\PROJECT\MyWebApiWithDTO\Service\bin\Debug\net8.0\Repositories.pdb
+M:\WepApi\PROJECT\MyWebApiWithDTO\Service\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+M:\WepApi\PROJECT\MyWebApiWithDTO\Service\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+M:\WepApi\PROJECT\MyWebApiWithDTO\Service\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+M:\WepApi\PROJECT\MyWebApiWithDTO\Service\obj\Debug\net8.0\Services.AssemblyInfo.cs
+M:\WepApi\PROJECT\MyWebApiWithDTO\Service\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+M:\WepApi\PROJECT\MyWebApiWithDTO\Service\obj\Debug\net8.0\Services.csproj.CopyComplete
+M:\WepApi\PROJECT\MyWebApiWithDTO\Service\obj\Debug\net8.0\Services.dll
+M:\WepApi\PROJECT\MyWebApiWithDTO\Service\obj\Debug\net8.0\refint\Services.dll
+M:\WepApi\PROJECT\MyWebApiWithDTO\Service\obj\Debug\net8.0\Services.pdb
+M:\WepApi\PROJECT\MyWebApiWithDTO\Service\obj\Debug\net8.0\ref\Services.dll
+M:\WepApi\PROJECT\MyWebApiWithDTO\Service\bin\Debug\net8.0\DTO.deps.json
+M:\WepApi\PROJECT\MyWebApiWithDTO\Service\bin\Debug\net8.0\DTO.runtimeconfig.json
+M:\WepApi\PROJECT\MyWebApiWithDTO\Service\bin\Debug\net8.0\DTO.exe
+M:\WepApi\PROJECT\MyWebApiWithDTO\Service\bin\Debug\net8.0\DTO.dll
+M:\WepApi\PROJECT\MyWebApiWithDTO\Service\bin\Debug\net8.0\DTO.pdb
+D:\חומר לימודים\webApi\MyWebApiWithDTO\Service\bin\Debug\net8.0\DTO.deps.json
+D:\חומר לימודים\webApi\MyWebApiWithDTO\Service\bin\Debug\net8.0\DTO.runtimeconfig.json
+D:\חומר לימודים\webApi\MyWebApiWithDTO\Service\bin\Debug\net8.0\DTO.exe
+D:\חומר לימודים\webApi\MyWebApiWithDTO\Service\bin\Debug\net8.0\Services.deps.json
+D:\חומר לימודים\webApi\MyWebApiWithDTO\Service\bin\Debug\net8.0\Services.dll
+D:\חומר לימודים\webApi\MyWebApiWithDTO\Service\bin\Debug\net8.0\Services.pdb
+D:\חומר לימודים\webApi\MyWebApiWithDTO\Service\bin\Debug\net8.0\DTO.dll
+D:\חומר לימודים\webApi\MyWebApiWithDTO\Service\bin\Debug\net8.0\Entities.dll
+D:\חומר לימודים\webApi\MyWebApiWithDTO\Service\bin\Debug\net8.0\Repositories.dll
+D:\חומר לימודים\webApi\MyWebApiWithDTO\Service\bin\Debug\net8.0\DTO.pdb
+D:\חומר לימודים\webApi\MyWebApiWithDTO\Service\bin\Debug\net8.0\Entities.pdb
+D:\חומר לימודים\webApi\MyWebApiWithDTO\Service\bin\Debug\net8.0\Repositories.pdb
+D:\חומר לימודים\webApi\MyWebApiWithDTO\Service\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+D:\חומר לימודים\webApi\MyWebApiWithDTO\Service\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\חומר לימודים\webApi\MyWebApiWithDTO\Service\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+D:\חומר לימודים\webApi\MyWebApiWithDTO\Service\obj\Debug\net8.0\Services.AssemblyInfo.cs
+D:\חומר לימודים\webApi\MyWebApiWithDTO\Service\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+D:\חומר לימודים\webApi\MyWebApiWithDTO\Service\obj\Debug\net8.0\Services.csproj.Up2Date
+D:\חומר לימודים\webApi\MyWebApiWithDTO\Service\obj\Debug\net8.0\Services.dll
+D:\חומר לימודים\webApi\MyWebApiWithDTO\Service\obj\Debug\net8.0\refint\Services.dll
+D:\חומר לימודים\webApi\MyWebApiWithDTO\Service\obj\Debug\net8.0\Services.pdb
+D:\חומר לימודים\webApi\MyWebApiWithDTO\Service\obj\Debug\net8.0\ref\Services.dll
+M:\WepApi\PROJECT\MyWebApiProducts\Service\bin\Debug\net8.0\DTO.deps.json
+M:\WepApi\PROJECT\MyWebApiProducts\Service\bin\Debug\net8.0\DTO.runtimeconfig.json
+M:\WepApi\PROJECT\MyWebApiProducts\Service\bin\Debug\net8.0\DTO.exe
+M:\WepApi\PROJECT\MyWebApiProducts\Service\bin\Debug\net8.0\Services.deps.json
+M:\WepApi\PROJECT\MyWebApiProducts\Service\bin\Debug\net8.0\Services.dll
+M:\WepApi\PROJECT\MyWebApiProducts\Service\bin\Debug\net8.0\Services.pdb
+M:\WepApi\PROJECT\MyWebApiProducts\Service\bin\Debug\net8.0\DTO.dll
+M:\WepApi\PROJECT\MyWebApiProducts\Service\bin\Debug\net8.0\Entities.dll
+M:\WepApi\PROJECT\MyWebApiProducts\Service\bin\Debug\net8.0\Repositories.dll
+M:\WepApi\PROJECT\MyWebApiProducts\Service\bin\Debug\net8.0\DTO.pdb
+M:\WepApi\PROJECT\MyWebApiProducts\Service\bin\Debug\net8.0\Entities.pdb
+M:\WepApi\PROJECT\MyWebApiProducts\Service\bin\Debug\net8.0\Repositories.pdb
+M:\WepApi\PROJECT\MyWebApiProducts\Service\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+M:\WepApi\PROJECT\MyWebApiProducts\Service\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+M:\WepApi\PROJECT\MyWebApiProducts\Service\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+M:\WepApi\PROJECT\MyWebApiProducts\Service\obj\Debug\net8.0\Services.AssemblyInfo.cs
+M:\WepApi\PROJECT\MyWebApiProducts\Service\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+M:\WepApi\PROJECT\MyWebApiProducts\Service\obj\Debug\net8.0\Services.csproj.CopyComplete
+M:\WepApi\PROJECT\MyWebApiProducts\Service\obj\Debug\net8.0\Services.dll
+M:\WepApi\PROJECT\MyWebApiProducts\Service\obj\Debug\net8.0\refint\Services.dll
+M:\WepApi\PROJECT\MyWebApiProducts\Service\obj\Debug\net8.0\Services.pdb
+M:\WepApi\PROJECT\MyWebApiProducts\Service\obj\Debug\net8.0\ref\Services.dll
+C:\Users\326238102\Desktop\MyWebApiProducts\Service\bin\Debug\net8.0\DTO.deps.json
+C:\Users\326238102\Desktop\MyWebApiProducts\Service\bin\Debug\net8.0\DTO.runtimeconfig.json
+C:\Users\326238102\Desktop\MyWebApiProducts\Service\bin\Debug\net8.0\DTO.exe
+C:\Users\326238102\Desktop\MyWebApiProducts\Service\bin\Debug\net8.0\Services.deps.json
+C:\Users\326238102\Desktop\MyWebApiProducts\Service\bin\Debug\net8.0\Services.dll
+C:\Users\326238102\Desktop\MyWebApiProducts\Service\bin\Debug\net8.0\Services.pdb
+C:\Users\326238102\Desktop\MyWebApiProducts\Service\bin\Debug\net8.0\DTO.dll
+C:\Users\326238102\Desktop\MyWebApiProducts\Service\bin\Debug\net8.0\Entities.dll
+C:\Users\326238102\Desktop\MyWebApiProducts\Service\bin\Debug\net8.0\Repositories.dll
+C:\Users\326238102\Desktop\MyWebApiProducts\Service\bin\Debug\net8.0\DTO.pdb
+C:\Users\326238102\Desktop\MyWebApiProducts\Service\bin\Debug\net8.0\Entities.pdb
+C:\Users\326238102\Desktop\MyWebApiProducts\Service\bin\Debug\net8.0\Repositories.pdb
+C:\Users\326238102\Desktop\MyWebApiProducts\Service\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+C:\Users\326238102\Desktop\MyWebApiProducts\Service\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\326238102\Desktop\MyWebApiProducts\Service\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+C:\Users\326238102\Desktop\MyWebApiProducts\Service\obj\Debug\net8.0\Services.AssemblyInfo.cs
+C:\Users\326238102\Desktop\MyWebApiProducts\Service\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\326238102\Desktop\MyWebApiProducts\Service\obj\Debug\net8.0\Services.csproj.CopyComplete
+C:\Users\326238102\Desktop\MyWebApiProducts\Service\obj\Debug\net8.0\Services.dll
+C:\Users\326238102\Desktop\MyWebApiProducts\Service\obj\Debug\net8.0\refint\Services.dll
+C:\Users\326238102\Desktop\MyWebApiProducts\Service\obj\Debug\net8.0\Services.pdb
+C:\Users\326238102\Desktop\MyWebApiProducts\Service\obj\Debug\net8.0\ref\Services.dll
+M:\WepApi\PROJECT\MyWebApiTests\Service\bin\Debug\net8.0\DTO.deps.json
+M:\WepApi\PROJECT\MyWebApiTests\Service\bin\Debug\net8.0\DTO.runtimeconfig.json
+M:\WepApi\PROJECT\MyWebApiTests\Service\bin\Debug\net8.0\DTO.exe
+M:\WepApi\PROJECT\MyWebApiTests\Service\bin\Debug\net8.0\Services.deps.json
+M:\WepApi\PROJECT\MyWebApiTests\Service\bin\Debug\net8.0\Services.dll
+M:\WepApi\PROJECT\MyWebApiTests\Service\bin\Debug\net8.0\Services.pdb
+M:\WepApi\PROJECT\MyWebApiTests\Service\bin\Debug\net8.0\DTO.dll
+M:\WepApi\PROJECT\MyWebApiTests\Service\bin\Debug\net8.0\Entities.dll
+M:\WepApi\PROJECT\MyWebApiTests\Service\bin\Debug\net8.0\Repositories.dll
+M:\WepApi\PROJECT\MyWebApiTests\Service\bin\Debug\net8.0\DTO.pdb
+M:\WepApi\PROJECT\MyWebApiTests\Service\bin\Debug\net8.0\Entities.pdb
+M:\WepApi\PROJECT\MyWebApiTests\Service\bin\Debug\net8.0\Repositories.pdb
+M:\WepApi\PROJECT\MyWebApiTests\Service\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+M:\WepApi\PROJECT\MyWebApiTests\Service\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+M:\WepApi\PROJECT\MyWebApiTests\Service\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+M:\WepApi\PROJECT\MyWebApiTests\Service\obj\Debug\net8.0\Services.AssemblyInfo.cs
+M:\WepApi\PROJECT\MyWebApiTests\Service\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+M:\WepApi\PROJECT\MyWebApiTests\Service\obj\Debug\net8.0\Services.csproj.CopyComplete
+M:\WepApi\PROJECT\MyWebApiTests\Service\obj\Debug\net8.0\Services.dll
+M:\WepApi\PROJECT\MyWebApiTests\Service\obj\Debug\net8.0\refint\Services.dll
+M:\WepApi\PROJECT\MyWebApiTests\Service\obj\Debug\net8.0\Services.pdb
+M:\WepApi\PROJECT\MyWebApiTests\Service\obj\Debug\net8.0\ref\Services.dll
+C:\Users\326238102\Desktop\project\MyWebApiTests\Service\bin\Debug\net8.0\DTO.deps.json
+C:\Users\326238102\Desktop\project\MyWebApiTests\Service\bin\Debug\net8.0\DTO.runtimeconfig.json
+C:\Users\326238102\Desktop\project\MyWebApiTests\Service\bin\Debug\net8.0\DTO.exe
+C:\Users\326238102\Desktop\project\MyWebApiTests\Service\bin\Debug\net8.0\Services.deps.json
+C:\Users\326238102\Desktop\project\MyWebApiTests\Service\bin\Debug\net8.0\Services.dll
+C:\Users\326238102\Desktop\project\MyWebApiTests\Service\bin\Debug\net8.0\Services.pdb
+C:\Users\326238102\Desktop\project\MyWebApiTests\Service\bin\Debug\net8.0\DTO.dll
+C:\Users\326238102\Desktop\project\MyWebApiTests\Service\bin\Debug\net8.0\Entities.dll
+C:\Users\326238102\Desktop\project\MyWebApiTests\Service\bin\Debug\net8.0\Repositories.dll
+C:\Users\326238102\Desktop\project\MyWebApiTests\Service\bin\Debug\net8.0\DTO.pdb
+C:\Users\326238102\Desktop\project\MyWebApiTests\Service\bin\Debug\net8.0\Entities.pdb
+C:\Users\326238102\Desktop\project\MyWebApiTests\Service\bin\Debug\net8.0\Repositories.pdb
+C:\Users\326238102\Desktop\project\MyWebApiTests\Service\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+C:\Users\326238102\Desktop\project\MyWebApiTests\Service\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\326238102\Desktop\project\MyWebApiTests\Service\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+C:\Users\326238102\Desktop\project\MyWebApiTests\Service\obj\Debug\net8.0\Services.AssemblyInfo.cs
+C:\Users\326238102\Desktop\project\MyWebApiTests\Service\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\326238102\Desktop\project\MyWebApiTests\Service\obj\Debug\net8.0\Services.csproj.CopyComplete
+C:\Users\326238102\Desktop\project\MyWebApiTests\Service\obj\Debug\net8.0\Services.dll
+C:\Users\326238102\Desktop\project\MyWebApiTests\Service\obj\Debug\net8.0\refint\Services.dll
+C:\Users\326238102\Desktop\project\MyWebApiTests\Service\obj\Debug\net8.0\Services.pdb
+C:\Users\326238102\Desktop\project\MyWebApiTests\Service\obj\Debug\net8.0\ref\Services.dll

@@ -1,0 +1,119 @@
+﻿/*input {
+    width: 100%;
+    padding: 8px;
+    margin: 4px 0;
+    box-sizing: border-box;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+    button:hover {
+        background-color: #0056b3;
+    }*/
+
+/* Styling for the login form */
+/*#login {
+    max-width: 300px;
+    margin: 0 auto;
+}*/
+
+/* Styling for the registration form */
+/*#reg {
+    display: none;
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+    #reg input[type="password"] {
+        margin-bottom: 5px;
+    }
+
+#check {
+    display: block;
+    margin-top: 5px;
+    color: red;
+}*/
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 50px;
+    padding: 50px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    height: 25vh;
+}
+
+/* Form container styling */
+#login, #reg {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    align-items: center;
+    align-content: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Input styling */
+input {
+    width: 100%;
+    padding: 3px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    text-align:center;
+}
+
+/* Button styling */
+button {
+    background-position-x: center;
+    padding: 3px 5px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+
+
+    width: 100%;
+    padding: 3px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    text-align: center;
+}
+
+    button:hover {
+        background-color: #0056b3;
+    }
+
+/* Error message styling */
+#check {
+    color: red;
+    font-size: 12px;
+}
+
+/* Responsive design for smaller screens */
+@media (max-width: 768px) {
+    #login, #reg {
+        width: 90%;
+    }
+
+    input {
+        width: 100%;
+    }
+
+    button {
+        width: 100%;
+    }
+}

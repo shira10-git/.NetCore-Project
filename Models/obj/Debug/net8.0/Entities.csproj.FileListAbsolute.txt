@@ -1,0 +1,77 @@
+M:\WepApi\PROJECT\MyWebApi\Models\bin\Debug\net8.0\Entities.deps.json
+M:\WepApi\PROJECT\MyWebApi\Models\bin\Debug\net8.0\Entities.dll
+M:\WepApi\PROJECT\MyWebApi\Models\bin\Debug\net8.0\Entities.pdb
+M:\WepApi\PROJECT\MyWebApi\Models\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+M:\WepApi\PROJECT\MyWebApi\Models\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+M:\WepApi\PROJECT\MyWebApi\Models\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+M:\WepApi\PROJECT\MyWebApi\Models\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+M:\WepApi\PROJECT\MyWebApi\Models\obj\Debug\net8.0\Entities.dll
+M:\WepApi\PROJECT\MyWebApi\Models\obj\Debug\net8.0\refint\Entities.dll
+M:\WepApi\PROJECT\MyWebApi\Models\obj\Debug\net8.0\Entities.pdb
+M:\WepApi\PROJECT\MyWebApi\Models\obj\Debug\net8.0\ref\Entities.dll
+M:\WepApi\PROJECT\MyWebApiWithDTO\Models\bin\Debug\net8.0\Entities.deps.json
+M:\WepApi\PROJECT\MyWebApiWithDTO\Models\bin\Debug\net8.0\Entities.dll
+M:\WepApi\PROJECT\MyWebApiWithDTO\Models\bin\Debug\net8.0\Entities.pdb
+M:\WepApi\PROJECT\MyWebApiWithDTO\Models\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+M:\WepApi\PROJECT\MyWebApiWithDTO\Models\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+M:\WepApi\PROJECT\MyWebApiWithDTO\Models\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+M:\WepApi\PROJECT\MyWebApiWithDTO\Models\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+M:\WepApi\PROJECT\MyWebApiWithDTO\Models\obj\Debug\net8.0\Entities.dll
+M:\WepApi\PROJECT\MyWebApiWithDTO\Models\obj\Debug\net8.0\refint\Entities.dll
+M:\WepApi\PROJECT\MyWebApiWithDTO\Models\obj\Debug\net8.0\Entities.pdb
+M:\WepApi\PROJECT\MyWebApiWithDTO\Models\obj\Debug\net8.0\ref\Entities.dll
+D:\חומר לימודים\webApi\MyWebApiWithDTO\Models\bin\Debug\net8.0\Entities.deps.json
+D:\חומר לימודים\webApi\MyWebApiWithDTO\Models\bin\Debug\net8.0\Entities.dll
+D:\חומר לימודים\webApi\MyWebApiWithDTO\Models\bin\Debug\net8.0\Entities.pdb
+D:\חומר לימודים\webApi\MyWebApiWithDTO\Models\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\חומר לימודים\webApi\MyWebApiWithDTO\Models\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+D:\חומר לימודים\webApi\MyWebApiWithDTO\Models\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+D:\חומר לימודים\webApi\MyWebApiWithDTO\Models\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+D:\חומר לימודים\webApi\MyWebApiWithDTO\Models\obj\Debug\net8.0\Entities.dll
+D:\חומר לימודים\webApi\MyWebApiWithDTO\Models\obj\Debug\net8.0\refint\Entities.dll
+D:\חומר לימודים\webApi\MyWebApiWithDTO\Models\obj\Debug\net8.0\Entities.pdb
+D:\חומר לימודים\webApi\MyWebApiWithDTO\Models\obj\Debug\net8.0\ref\Entities.dll
+M:\WepApi\PROJECT\MyWebApiProducts\Models\bin\Debug\net8.0\Entities.deps.json
+M:\WepApi\PROJECT\MyWebApiProducts\Models\bin\Debug\net8.0\Entities.dll
+M:\WepApi\PROJECT\MyWebApiProducts\Models\bin\Debug\net8.0\Entities.pdb
+M:\WepApi\PROJECT\MyWebApiProducts\Models\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+M:\WepApi\PROJECT\MyWebApiProducts\Models\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+M:\WepApi\PROJECT\MyWebApiProducts\Models\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+M:\WepApi\PROJECT\MyWebApiProducts\Models\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+M:\WepApi\PROJECT\MyWebApiProducts\Models\obj\Debug\net8.0\Entities.dll
+M:\WepApi\PROJECT\MyWebApiProducts\Models\obj\Debug\net8.0\refint\Entities.dll
+M:\WepApi\PROJECT\MyWebApiProducts\Models\obj\Debug\net8.0\Entities.pdb
+M:\WepApi\PROJECT\MyWebApiProducts\Models\obj\Debug\net8.0\ref\Entities.dll
+C:\Users\326238102\Desktop\MyWebApiProducts\Models\bin\Debug\net8.0\Entities.deps.json
+C:\Users\326238102\Desktop\MyWebApiProducts\Models\bin\Debug\net8.0\Entities.dll
+C:\Users\326238102\Desktop\MyWebApiProducts\Models\bin\Debug\net8.0\Entities.pdb
+C:\Users\326238102\Desktop\MyWebApiProducts\Models\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\326238102\Desktop\MyWebApiProducts\Models\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+C:\Users\326238102\Desktop\MyWebApiProducts\Models\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+C:\Users\326238102\Desktop\MyWebApiProducts\Models\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\326238102\Desktop\MyWebApiProducts\Models\obj\Debug\net8.0\Entities.dll
+C:\Users\326238102\Desktop\MyWebApiProducts\Models\obj\Debug\net8.0\refint\Entities.dll
+C:\Users\326238102\Desktop\MyWebApiProducts\Models\obj\Debug\net8.0\Entities.pdb
+C:\Users\326238102\Desktop\MyWebApiProducts\Models\obj\Debug\net8.0\ref\Entities.dll
+M:\WepApi\PROJECT\MyWebApiTests\Models\bin\Debug\net8.0\Entities.deps.json
+M:\WepApi\PROJECT\MyWebApiTests\Models\bin\Debug\net8.0\Entities.dll
+M:\WepApi\PROJECT\MyWebApiTests\Models\bin\Debug\net8.0\Entities.pdb
+M:\WepApi\PROJECT\MyWebApiTests\Models\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+M:\WepApi\PROJECT\MyWebApiTests\Models\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+M:\WepApi\PROJECT\MyWebApiTests\Models\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+M:\WepApi\PROJECT\MyWebApiTests\Models\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+M:\WepApi\PROJECT\MyWebApiTests\Models\obj\Debug\net8.0\Entities.dll
+M:\WepApi\PROJECT\MyWebApiTests\Models\obj\Debug\net8.0\refint\Entities.dll
+M:\WepApi\PROJECT\MyWebApiTests\Models\obj\Debug\net8.0\Entities.pdb
+M:\WepApi\PROJECT\MyWebApiTests\Models\obj\Debug\net8.0\ref\Entities.dll
+C:\Users\326238102\Desktop\project\MyWebApiTests\Models\bin\Debug\net8.0\Entities.deps.json
+C:\Users\326238102\Desktop\project\MyWebApiTests\Models\bin\Debug\net8.0\Entities.dll
+C:\Users\326238102\Desktop\project\MyWebApiTests\Models\bin\Debug\net8.0\Entities.pdb
+C:\Users\326238102\Desktop\project\MyWebApiTests\Models\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\326238102\Desktop\project\MyWebApiTests\Models\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+C:\Users\326238102\Desktop\project\MyWebApiTests\Models\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+C:\Users\326238102\Desktop\project\MyWebApiTests\Models\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\326238102\Desktop\project\MyWebApiTests\Models\obj\Debug\net8.0\Entities.dll
+C:\Users\326238102\Desktop\project\MyWebApiTests\Models\obj\Debug\net8.0\refint\Entities.dll
+C:\Users\326238102\Desktop\project\MyWebApiTests\Models\obj\Debug\net8.0\Entities.pdb
+C:\Users\326238102\Desktop\project\MyWebApiTests\Models\obj\Debug\net8.0\ref\Entities.dll

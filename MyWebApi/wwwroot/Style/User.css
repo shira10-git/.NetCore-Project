@@ -1,0 +1,119 @@
+﻿/*body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    margin: 0;
+    padding: 0;
+}*/
+
+/* Button styling */
+/*button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+    button:hover {
+        background-color: #0056b3;
+    }*/
+
+/* Form container styling */
+/*#update {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+}*/
+
+/* Input styling */
+/*input {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}*/
+
+/* Error message styling */
+/*#check {
+    color: red;
+    font-size: 12px;
+}*/
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 50px;
+    padding: 50px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    height: 25vh;
+}
+
+/* Form container styling */
+#login, #reg {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    align-items: center;
+    align-content: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Input styling */
+input {
+    width: 100%;
+    padding: 3px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    text-align: center;
+}
+
+/* Button styling */
+button {
+    background-position-x: center;
+    padding: 3px 5px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 3px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    text-align: center;
+}
+
+    button:hover {
+        background-color: #0056b3;
+    }
+
+/* Error message styling */
+#check {
+    color: red;
+    font-size: 12px;
+}
+
+/* Responsive design for smaller screens */
+@media (max-width: 768px) {
+    #login, #reg {
+        width: 90%;
+    }
+
+    input {
+        width: 100%;
+    }
+
+    button {
+        width: 100%;
+    }
+}
