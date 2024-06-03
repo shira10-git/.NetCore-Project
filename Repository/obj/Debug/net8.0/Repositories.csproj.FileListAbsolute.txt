@@ -147,3 +147,4 @@ C:\Users\326238102\Desktop\project\MyWebApiTests\Repository\obj\Debug\net8.0\ref
 C:\Users\326238102\Desktop\project\MyWebApiTests\Repository\obj\Debug\net8.0\Repositories.pdb
 C:\Users\326238102\Desktop\project\MyWebApiTests\Repository\obj\Debug\net8.0\Repositories.genruntimeconfig.cache
 C:\Users\326238102\Desktop\project\MyWebApiTests\Repository\obj\Debug\net8.0\ref\Repositories.dll
+C:\Users\326238102\Desktop\project\MyWebApiTests\Repository\obj\Debug\net8.0\Repositories.sourcelink.json

@@ -58,29 +58,65 @@ const showReg = () => {
     document.getElementById("reg").style.display = "block"
 }
 
+
+//const checkStrong = async (data) => {
+//    const respones = await fetch("api/User/check",
+//        {
+//            method: 'POST',
+//            headers: { 'Content-Type': 'application/json' },
+//            body: JSON.stringify(data)
+//        });
+//    const result = await respones.json()
+//    if (result == 0) {
+//        let color = document.getElementById("check")
+//        color.style.setProperty("background-color", "red")
+//    }
+//    if (result == 1) {
+//        let color = document.getElementById("check")
+//        color.style.setProperty("background-color", "orange")
+//    }
+//    if (result >= 2) {
+//        let color = document.getElementById("check")
+//        color.style.setProperty("background-color", "green")
+//        showRegister()
+//    }
+//    return result;
+//}
 const checkStrong = async (data) => {
-    const respones = await fetch("api/User/check",
-        {
+    try {
+        const response = await fetch("api/User/check", {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify(data)
         });
-    const result = await respones.json()
-    if (result == 0) {
-        let color = document.getElementById("check")
-        color.style.setProperty("background-color", "red")
+
+        if (!response.ok) {
+            throw new Error('Network response was not ok');
+        }
+
+        const result = await response.json();
+        const colorElement = document.getElementById("check");
+
+        switch (result) {
+            case 0:
+                colorElement.style.setProperty("background-color", "red");
+                break;
+            case 1:
+                colorElement.style.setProperty("background-color", "orange");
+                break;
+            default:
+                if (result >= 2) {
+                    colorElement.style.setProperty("background-color", "green");
+                    showRegister();
+                }
+                break;
+        }
+
+        return result;
+    } catch (error) {
+        console.error('There was a problem with the fetch operation:', error);
     }
-    if (result == 1) {
-        let color = document.getElementById("check")
-        color.style.setProperty("background-color", "orange")
-    }
-    if (result >= 2) {
-        let color = document.getElementById("check")
-        color.style.setProperty("background-color", "green")
-        showRegister()
-    }
-    return result;
-}
+};
 
 const showRegister = () => {
     document.getElementById("register").style.display = "block"

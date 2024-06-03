@@ -39,7 +39,7 @@ namespace Repositories
             var userDb=await shopDbContext.Users.FirstOrDefaultAsync(u => user.UserId==id);
             if (userDb == null)
                 return null;
-            //shopDbContext.Entry(userDb).CurrentValues.SetValues(user);
+
             userDb.UserName = user.UserName;
             userDb.Password = user.Password;
             userDb.FirstName = user.FirstName;

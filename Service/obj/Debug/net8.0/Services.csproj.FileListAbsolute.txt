@@ -147,3 +147,4 @@ C:\Users\326238102\Desktop\project\MyWebApiTests\Service\obj\Debug\net8.0\Servic
 C:\Users\326238102\Desktop\project\MyWebApiTests\Service\obj\Debug\net8.0\refint\Services.dll
 C:\Users\326238102\Desktop\project\MyWebApiTests\Service\obj\Debug\net8.0\Services.pdb
 C:\Users\326238102\Desktop\project\MyWebApiTests\Service\obj\Debug\net8.0\ref\Services.dll
+C:\Users\326238102\Desktop\project\MyWebApiTests\Service\obj\Debug\net8.0\Services.sourcelink.json

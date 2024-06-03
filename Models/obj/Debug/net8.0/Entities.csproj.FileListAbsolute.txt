@@ -75,3 +75,4 @@ C:\Users\326238102\Desktop\project\MyWebApiTests\Models\obj\Debug\net8.0\Entitie
 C:\Users\326238102\Desktop\project\MyWebApiTests\Models\obj\Debug\net8.0\refint\Entities.dll
 C:\Users\326238102\Desktop\project\MyWebApiTests\Models\obj\Debug\net8.0\Entities.pdb
 C:\Users\326238102\Desktop\project\MyWebApiTests\Models\obj\Debug\net8.0\ref\Entities.dll
+C:\Users\326238102\Desktop\project\MyWebApiTests\Models\obj\Debug\net8.0\Entities.sourcelink.json

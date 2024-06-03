@@ -1080,3 +1080,4 @@ C:\Users\326238102\Desktop\project\MyWebApiTests\MyWebApi\obj\Debug\net8.0\refin
 C:\Users\326238102\Desktop\project\MyWebApiTests\MyWebApi\obj\Debug\net8.0\MyWebApi.pdb
 C:\Users\326238102\Desktop\project\MyWebApiTests\MyWebApi\obj\Debug\net8.0\MyWebApi.genruntimeconfig.cache
 C:\Users\326238102\Desktop\project\MyWebApiTests\MyWebApi\obj\Debug\net8.0\ref\MyWebApi.dll
+C:\Users\326238102\Desktop\project\MyWebApiTests\MyWebApi\obj\Debug\net8.0\MyWebApi.sourcelink.json

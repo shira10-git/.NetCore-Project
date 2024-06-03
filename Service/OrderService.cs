@@ -26,21 +26,28 @@ namespace Services
 
         public async Task<Order> Post(Order order)
         {
-            Product product;
-            double sum = 0;
-            foreach (var item in order.OrderItems)
-            {
-                product = await shopDbContext.Products.FirstOrDefaultAsync(p => p.ProductId == item.ProductId);
-                sum = (double)(sum +product.Price*item.Quentity);
-            }
+            double sum = await checkThief(order);
             if (sum != order.OrderSum)
             {
                 logger.LogError($"trying to steal {order.UserId}");
                 return null;
             }
 
-            Order newOrder=await orderRepository.Post(order);
+            Order newOrder = await orderRepository.Post(order);
             return newOrder;
         }
+
+        private async Task<double> checkThief(Order order)
+        {
+            double sum = 0;
+            foreach (var item in order.OrderItems)
+            {
+                Product product;
+                product = await shopDbContext.Products.FirstOrDefaultAsync(p => p.ProductId == item.ProductId);
+                sum = (double)(sum + product.Price * item.Quentity);
+            }
+            return sum;
+        }
+
     }
 }
