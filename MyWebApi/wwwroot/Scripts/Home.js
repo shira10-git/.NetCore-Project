@@ -58,7 +58,6 @@ const showReg = () => {
     document.getElementById("reg").style.display = "block"
 }
 
-
 const checkStrong = async (data) => {
     const respones = await fetch("api/User/check",
         {
