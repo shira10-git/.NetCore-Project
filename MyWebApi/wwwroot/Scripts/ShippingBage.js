@@ -91,15 +91,27 @@ const CleanTheScreen = () => {
     }
 }
 
-const deleteProductFromBasket = (product) => {
+const deleteProductFromBasket = async(product) => {
     let userBasket = JSON.parse(sessionStorage.getItem("basket"));
-    userBasket.map(prod => { 
-    if (prod.productName == product.productName && prod.price == product.price && prod.categoryId == product.categoryId && prod.description == product.description ) {
-        prod.quentity -= 1;
-        
-    }
+    userBasket.map(prod => {
+        if (checkIfSame(prod, product)) {
+            prod.quentity -= 1;
+        }
     })
+    await changeTheBasket(userBasket)
+    //userBasket = userBasket.filter(prod => prod.quentity > 0)
+    //window.sessionStorage.setItem("basket", JSON.stringify(userBasket));
+    location.reload()
+}
+
+const checkIfSame=(prod, product)=>{
+    return (
+    prod.productName == product.productName &&
+    prod.price == product.price &&
+    prod.categoryId == product.categoryId &&
+    prod.description == product.description)
+}
+const changeTheBasket = (userBasket) => {
     userBasket = userBasket.filter(prod => prod.quentity > 0)
     window.sessionStorage.setItem("basket", JSON.stringify(userBasket));
-    location.reload()
 }
