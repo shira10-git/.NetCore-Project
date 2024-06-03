@@ -8,7 +8,6 @@ window.addEventListener("load", function () {
 const getAllMyProducts =async  () => {
     let userBasket =await JSON.parse(sessionStorage.getItem("basket"));
     console.log(userBasket);
-    //const template = document.querySelector("#item-row");
     const template = document.getElementById('temp-row');
     userBasket.forEach(basket => ShowBasketProducts(basket, template));
 }
@@ -16,7 +15,6 @@ const getAllMyProducts =async  () => {
 const ShowBasketProducts = (basket, template) => {
     console.log(basket.productName)
     const clone = template.content.cloneNode(true);
-    //let item = clone.querySelector("td");
     let item = clone.querySelector(".item-row");
     item.querySelector(".nameColumn").textContent = basket.productName;
     item.querySelector(".descriptionColumn").textContent = basket.description;
@@ -46,7 +44,6 @@ const showAmmontPrice = () => {
 }
 
 const placeOrder =async () => {
-    //send to server
     await creatOrder()
     window.sessionStorage.setItem("basket", "[]");
     CleanTheScreen()
@@ -81,7 +78,6 @@ const creatOrder = async() => {
             alert("not found")
         }
         else {
-            //console.log("bcbcbnv",result.id)
             alert("added to yuor account " + result.id)
         }
         return result

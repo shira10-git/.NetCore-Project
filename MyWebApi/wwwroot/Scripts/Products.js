@@ -3,8 +3,6 @@ var max = -1;
 var min = -1;
 var byName = null;
 var categoryString=""
-
-//window.sessionStorage.setItem("basket", "[]");
 window.addEventListener("load", function () {
     console.log("startUp");
     UploadAllProducts();
@@ -50,7 +48,6 @@ const ShowProduct = (product,template) => {
 
     var addToBasketButton = clone.querySelector('button');
     addToBasketButton.addEventListener('click', function () {
-        //console.log(product)
         addToBasket(product);
     });
     document.getElementById("PoductList").appendChild(clone);

@@ -8,19 +8,6 @@ const getDetailes = (user) => {
     alert(id)
 }
 
-//const showUpdate = () => {
-//    document.getElementById("update").style.display = "block"
-//}
-
-//const handelUpdate = async (data) => {
-//    const respones = await fetch(`api/User/${id}`,
-//        {
-//            method: 'PUT',
-//            headers: { 'Content-Type': 'application/json' },
-//            body: JSON.stringify(data)
-//        });
-//    const user = await respones.json()
-//}
 const showUpdate = () => {
     document.getElementById("update").style.display = "block"
 }
