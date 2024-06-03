@@ -99,8 +99,6 @@ const deleteProductFromBasket = async(product) => {
         }
     })
     await changeTheBasket(userBasket)
-    //userBasket = userBasket.filter(prod => prod.quentity > 0)
-    //window.sessionStorage.setItem("basket", JSON.stringify(userBasket));
     location.reload()
 }
 

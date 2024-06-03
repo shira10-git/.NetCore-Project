@@ -2,7 +2,7 @@
 var max = -1;
 var min = -1;
 var byName = null;
-var categoryString=""
+var categoryString = ""
 window.addEventListener("load", function () {
     console.log("startUp");
     UploadAllProducts();
@@ -34,7 +34,7 @@ const ShowProducts = (products) => {
     products.forEach(prod => ShowProduct(prod, template));
 }
 
-const ShowProduct = (product,template) => {
+const ShowProduct = (product, template) => {
     console.log(product)
     const clone = template.content.cloneNode(true);
     let item = clone.querySelector("div");
@@ -71,9 +71,9 @@ const UploadCategories = async () => {
     }
 }
 
-const ShowCategories = (categories) => {     
+const ShowCategories = (categories) => {
     const divCategories = document.getElementById("categoryList")
-    categories.forEach(category => { 
+    categories.forEach(category => {
         let br = document.createElement('br');
         divCategories.appendChild(br)
         let cb = document.createElement('input');
@@ -107,22 +107,22 @@ const addCheckboxEventListeners = () => {
 };
 
 const UpdateAmmountOfProducts = (len) => {
-    
+
     document.getElementById("counter").innerHTML = len;
 }
-const filterProducts = ()=> {
+const filterProducts = () => {
     byName = document.getElementById("nameSearch").value;
     min = document.getElementById("minPrice").value;
     max = document.getElementById("maxPrice").value;
     for (let i = 0; i < categoriesCheckBox.length; i++) {
-        categoryString +=`&categoryIds=${categoriesCheckBox[i]}`;
+        categoryString += `&categoryIds=${categoriesCheckBox[i]}`;
     }
     UploadFiltered()
-    
+
 }
 
 const UploadFiltered = async () => {
-  
+
     const respones = await fetch(`api/Product?desc=${byName}&minPrice=${min}&maxPrice=${max}${categoryString}`,
         {
             method: 'Get',
@@ -130,7 +130,7 @@ const UploadFiltered = async () => {
     try {
         const products = await respones.json()
         if (products) {
-            categoryString=""
+            categoryString = ""
             console.log(products)
             CleanTheScreen()
             ShowProducts(products)
@@ -154,26 +154,32 @@ const addToBasket = (product) => {
     let flag = false;
 
     userBasket.map(prod => {
-        if (prod.productName == product.productName && prod.price == product.price && prod.categoryId == product.categoryId && prod.description == product.description) {
-            prod.quentity += 1;
+        if (checkIfSame(prod, product) == true){ 
+        prod.quentity += 1;
             flag = true;
         }
-})
+    })
     if (flag == false) {
         product.quentity = 1;
         userBasket.push(product);
     }
-
-    console.log(product)
     window.sessionStorage.setItem("basket", JSON.stringify(userBasket));
     UpdateAmmount()
-    }
+}
+
+const checkIfSame = (prod, product) => {
+    return (
+        prod.productName == product.productName &&
+        prod.price == product.price &&
+        prod.categoryId == product.categoryId &&
+        prod.description == product.description)
+}
 
 const UpdateAmmount = () => {
     let userBasket = JSON.parse(sessionStorage.getItem("basket"));
     let ammount = 0;
     userBasket.map(prod => {
-        ammount+=prod.quentity;
+        ammount += prod.quentity;
     })
     document.getElementById("ItemsCountText").innerHTML = ammount
 }
