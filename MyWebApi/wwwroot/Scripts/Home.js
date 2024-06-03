@@ -58,35 +58,6 @@ const showReg = () => {
     document.getElementById("reg").style.display = "block"
 }
 
-//const showUpdate = () => {
-//    document.getElementById("update").style.display = "block"
-//}
-
-//const handelUpdate = async () => {
-//    const userId = sessionStorage.getItem("userID");
-//    const userName = document.getElementById("UserName").value;
-//    const LastName = document.getElementById("LastName").value;
-//    const Password = document.getElementById("Password").value;
-//    const firstName = document.getElementById("FirstName").value;
-
-//    const user = { userName: userName, lastName: LastName, Password: Password, firstName: firstName ,userId:userId}
-//    var respones = await fetch(`api/User/${userId}`,
-//        {
-//            method: "PUT",
-//            headers: {
-//                'Content-Type': "application/json"
-//            },
-//            body: JSON.stringify(user)
-
-//        })
-    
-//    if (respones.status == 204) {
-//        alert("can't update")
-//    }
-//    else {
-//        alert("Updated succeded")
-//    }
-//}
 
 const checkStrong = async (data) => {
     const respones = await fetch("api/User/check",
