@@ -46,7 +46,6 @@ namespace Repositories
             userDb.LastName = user.LastName;
             userDb.Email = user.Email;
 
-            //await shopDbContext.SaveChangesAsync();
             await shopDbContext.SaveChangesAsync();
             return user;
         }

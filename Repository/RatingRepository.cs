@@ -43,27 +43,7 @@ namespace Repositories
             }
 
             return r;
-            //string query = "INSERT INTO RATING(HOST,METHOD,PATH,REFERER,USER_AGENT,Record_Date)" +
-            //    "VALUES(@HOST,@METHOD,@PATH,@REFERER,@USER_AGENT,@Record_Date)";
-
-            //using (SqlConnection cn = new SqlConnection("Data Source=srv2\\\\PUPILS;Initial Catalog=Shop_db_325338135;Trusted_Connection=True;TrustServerCertificate=True"))
-            //using (SqlCommand cmd = new SqlCommand(query, cn))
-            //{
-            //    cmd.Parameters.Add("@HOST", SqlDbType.NVarChar, 50).Value = r.Host;
-            //    cmd.Parameters.Add("@METHOD", SqlDbType.NChar).Value = r.Method;
-            //    cmd.Parameters.Add("@PATH", SqlDbType.NVarChar).Value = r.Path;
-            //    cmd.Parameters.Add("@REFERER", SqlDbType.NVarChar, 100).Value = r.Referer;
-            //    cmd.Parameters.Add("@USER_AGENT", SqlDbType.NVarChar, 100).Value = r.UserAgent;
-            //    cmd.Parameters.Add("@Record_Date", SqlDbType.DateTime, 100).Value = new DateTime();
-
-            //    cn.Open();
-            //    int rowsAffected = cmd.ExecuteNonQuery();
-            //    cn.Close();
-
-            //    return r;
-            //}
         }
 
-       
     }
 }
