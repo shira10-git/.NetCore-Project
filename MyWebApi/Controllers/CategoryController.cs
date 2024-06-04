@@ -6,52 +6,55 @@ using Services;
 using System.Collections.Generic;
 using Zxcvbn;
 
-
-
 namespace MyWebApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
     public class CategoryController : ControllerBase
     {
-        private ICategoryService categoryService;
-        private IMapper mapper;
-        private readonly ILogger<CategoryController> logger;
+        private readonly ICategoryService _categoryService;
+        private readonly IMapper _mapper;
+        private readonly ILogger<CategoryController> _logger;
+
         public CategoryController(ICategoryService categoryService, IMapper mapper, ILogger<CategoryController> logger)
         {
-            this.categoryService = categoryService;
-            this.mapper = mapper;
-            this.logger = logger;
+            _categoryService = categoryService;
+            _mapper = mapper;
+            _logger = logger;
         }
 
         [HttpGet]
-        
-        public async Task<ActionResult<List<Category>>> Get()
+        public async Task<ActionResult<List<Category>>> GetAllCategories()
         {
-            var category = await categoryService.Get();
-            //var categoryDto = mapper.Map<List<Category>, List<CategoryDTO>>(category);
-            if (category.Count()>0)
-                return Ok(category);
+            var categories = await _categoryService.Get();
+
+            if (categories.Any())
+            {
+                return Ok(categories);
+            }
+
             return NoContent();
         }
 
-
         [HttpGet("{id}")]
-        public async Task<ActionResult<List<Category>>> Get(int id)
+        public async Task<ActionResult<Category>> GetCategoryById(int id)
         {
             try
             {
-            var category = await categoryService.Get(id);
+                var category = await _categoryService.Get(id);
+
                 if (category != null)
+                {
                     return Ok(category);
+                }
+
                 return NoContent();
             }
-            catch(Exception e)
+            catch (Exception ex)
             {
-                logger.LogError($"get categoryById error {e}");
+                _logger.LogError($"Error retrieving category by ID: {ex}");
+                return StatusCode(500, "Internal server error");
             }
-            return null;
         }
-
     }
 }

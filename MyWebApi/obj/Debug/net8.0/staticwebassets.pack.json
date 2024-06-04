@@ -1,75 +1,75 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\Home.html",
+      "Id": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\Home.html",
       "PackagePath": "staticwebassets\\Home.html"
     },
     {
-      "Id": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\Images\\BagActive.png",
+      "Id": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\Images\\BagActive.png",
       "PackagePath": "staticwebassets\\Images\\BagActive.png"
     },
     {
-      "Id": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\Images\\book1.jpg",
+      "Id": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\Images\\book1.jpg",
       "PackagePath": "staticwebassets\\Images\\book1.jpg"
     },
     {
-      "Id": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\Images\\book2.JPG",
+      "Id": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\Images\\book2.JPG",
       "PackagePath": "staticwebassets\\Images\\book2.JPG"
     },
     {
-      "Id": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\Images\\icn-remove.png",
+      "Id": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\Images\\icn-remove.png",
       "PackagePath": "staticwebassets\\Images\\icn-remove.png"
     },
     {
-      "Id": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\Images\\searchIcon.svg",
+      "Id": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\Images\\searchIcon.svg",
       "PackagePath": "staticwebassets\\Images\\searchIcon.svg"
     },
     {
-      "Id": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\Products.html",
+      "Id": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\Products.html",
       "PackagePath": "staticwebassets\\Products.html"
     },
     {
-      "Id": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\README.md",
+      "Id": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\README.md",
       "PackagePath": "staticwebassets\\README.md"
     },
     {
-      "Id": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\Scripts\\Home.js",
+      "Id": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\Scripts\\Home.js",
       "PackagePath": "staticwebassets\\Scripts\\Home.js"
     },
     {
-      "Id": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\Scripts\\Products.js",
+      "Id": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\Scripts\\Products.js",
       "PackagePath": "staticwebassets\\Scripts\\Products.js"
     },
     {
-      "Id": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\Scripts\\ShippingBage.js",
+      "Id": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\Scripts\\ShippingBage.js",
       "PackagePath": "staticwebassets\\Scripts\\ShippingBage.js"
     },
     {
-      "Id": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\Scripts\\User.js",
+      "Id": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\Scripts\\User.js",
       "PackagePath": "staticwebassets\\Scripts\\User.js"
     },
     {
-      "Id": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\ShoppingBag.html",
+      "Id": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\ShoppingBag.html",
       "PackagePath": "staticwebassets\\ShoppingBag.html"
     },
     {
-      "Id": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\Style\\Home.css",
+      "Id": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\Style\\Home.css",
       "PackagePath": "staticwebassets\\Style\\Home.css"
     },
     {
-      "Id": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\Style\\Products.css",
+      "Id": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\Style\\Products.css",
       "PackagePath": "staticwebassets\\Style\\Products.css"
     },
     {
-      "Id": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\Style\\ShoppingBag.css",
+      "Id": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\Style\\ShoppingBag.css",
       "PackagePath": "staticwebassets\\Style\\ShoppingBag.css"
     },
     {
-      "Id": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\Style\\User.css",
+      "Id": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\Style\\User.css",
       "PackagePath": "staticwebassets\\Style\\User.css"
     },
     {
-      "Id": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\User.html",
+      "Id": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\User.html",
       "PackagePath": "staticwebassets\\User.html"
     },
     {

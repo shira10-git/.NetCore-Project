@@ -26,11 +26,11 @@ namespace MyWebApi.Controllers
         }
         
         [HttpPost("login")]
-        public async Task<ActionResult<UserAfterLoginDTO>> Login([FromBody] LoginDTO userLogin)
+        public async Task<ActionResult<UserWithIDDTO>> Login([FromBody] LoginDTO userLogin)
         {
             User u = await userService.Login(userLogin);
 
-            UserAfterLoginDTO userAfter = mapper.Map<User, UserAfterLoginDTO>(u);
+            UserWithIDDTO userAfter = mapper.Map<User, UserWithIDDTO>(u);
             if (userAfter != null)
             {
                 logger.LogInformation($"login attempted with UserName {userAfter.UserName}");
@@ -41,13 +41,17 @@ namespace MyWebApi.Controllers
 
 
         [HttpPost("register")]
-        public async Task<ActionResult<User>> Register([FromBody] RegisterDTO userDto)
+        public async Task<ActionResult<UserWithIDDTO>> Register([FromBody] RegisterDTO userDto)
         {
             var user = mapper.Map<RegisterDTO, User>(userDto);
 
             User u =await userService.Register(user);
-            if (u!=null)
-                return CreatedAtAction(nameof(Get), new { id = u.UserId }, u);
+            if (u != null)
+            {
+                var userToReturn = mapper.Map<User, UserWithIDDTO>(u);
+                return CreatedAtAction(nameof(Get), new { id = userToReturn.UserId }, userToReturn);
+            }
+                
             return NoContent();
         }
 
@@ -62,14 +66,15 @@ namespace MyWebApi.Controllers
         }
 
         [HttpGet("{id}")]
-        public async Task<User> Get(int id)
+        public async Task<UserDTO> Get(int id)
         {
             var user = await userService.Get(id);
-            return user;
+            var userToReturn = mapper.Map<User, UserDTO>(user);
+            return userToReturn;
         }
 
         [HttpPut("{id}")]
-        public async Task<ActionResult<User>> Update(int id, [FromBody] UserDTO user)
+        public async Task<ActionResult<UserDTO>> Update(int id, [FromBody] UserDTO user)
         {
             UserDTO prevUser=await userService.returnPrev(id,user);
 

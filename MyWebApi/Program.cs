@@ -35,12 +35,13 @@ if (app.Environment.IsDevelopment())
 
 // Configure the HTTP request pipeline.
 
+
+app.UseErrorHandlingMiddleware();
+
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
 
-app.UseErrorHandlingMiddleware();
- 
 app.UseRoutingMiddleware();
 
 app.MapControllers();

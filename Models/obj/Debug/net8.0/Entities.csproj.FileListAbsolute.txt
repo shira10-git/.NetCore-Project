@@ -100,3 +100,15 @@ C:\Users\326238102\Desktop\MyWebApiTests\Models\obj\Debug\net8.0\Entities.dll
 C:\Users\326238102\Desktop\MyWebApiTests\Models\obj\Debug\net8.0\refint\Entities.dll
 C:\Users\326238102\Desktop\MyWebApiTests\Models\obj\Debug\net8.0\Entities.pdb
 C:\Users\326238102\Desktop\MyWebApiTests\Models\obj\Debug\net8.0\ref\Entities.dll
+M:\WepApi\PROJECT\New folder\MyWebApiTests\Models\bin\Debug\net8.0\Entities.deps.json
+M:\WepApi\PROJECT\New folder\MyWebApiTests\Models\bin\Debug\net8.0\Entities.dll
+M:\WepApi\PROJECT\New folder\MyWebApiTests\Models\bin\Debug\net8.0\Entities.pdb
+M:\WepApi\PROJECT\New folder\MyWebApiTests\Models\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+M:\WepApi\PROJECT\New folder\MyWebApiTests\Models\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+M:\WepApi\PROJECT\New folder\MyWebApiTests\Models\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+M:\WepApi\PROJECT\New folder\MyWebApiTests\Models\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+M:\WepApi\PROJECT\New folder\MyWebApiTests\Models\obj\Debug\net8.0\Entities.sourcelink.json
+M:\WepApi\PROJECT\New folder\MyWebApiTests\Models\obj\Debug\net8.0\Entities.dll
+M:\WepApi\PROJECT\New folder\MyWebApiTests\Models\obj\Debug\net8.0\refint\Entities.dll
+M:\WepApi\PROJECT\New folder\MyWebApiTests\Models\obj\Debug\net8.0\Entities.pdb
+M:\WepApi\PROJECT\New folder\MyWebApiTests\Models\obj\Debug\net8.0\ref\Entities.dll

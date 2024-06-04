@@ -19,11 +19,11 @@
             <input id="Password" placeholder="password" type="password"/>
         </div>
         <div>
-            <button onclick="handelLogin()">Login</button>
+            <button onclick="handleLogin()">Login</button>
         </div>
     </div>
 
-    <button onclick="showReg()">not in?</button>
+    <button onclick="showRegistrationForm()">not in?</button>
 
     <span id="reg" style="display: none">
         <div>
@@ -39,11 +39,11 @@
             <input id="EmailReg" placeholder="email" />
         </div>
         <div>
-            <input id="PasswordReg" placeholder="password" type="password" oninput="checkStrong(PasswordReg.value)" />
+            <input id="PasswordReg" placeholder="password" type="password" oninput="checkPasswordStrength(PasswordReg.value)" />
             <input id="check" style="background-color:red" />
         </div>
         <div>
-            <button id="register" style="display: none" onclick=" handelRegister({ firstName: FirstName.value, lastName: LastName.value, userName: UserNameReg.value, password: PasswordReg.value, id: 0,Email:EmailReg.value})">Register</button>
+            <button id="register" style="display: none" onclick=" handleRegister({ firstName: FirstName.value, lastName: LastName.value, userName: UserNameReg.value, password: PasswordReg.value, id: 0,Email:EmailReg.value})">Register</button>
         </div>
     </span>
 

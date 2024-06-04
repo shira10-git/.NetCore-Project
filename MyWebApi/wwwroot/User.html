@@ -9,7 +9,7 @@
     <title></title>
 </head>
 <body>
-    <button onclick="showUpdate()">update</button>
+    <button onclick="showUpdateForm()">update</button>
     <span id="update" style="display: none">
         <div>
             <input id="FirstName" placeholder="first_name" />
@@ -24,17 +24,17 @@
             <input id="Email" placeholder="email" />
         </div>
         <div>
-            <input id="Password" placeholder="password" type="password" oninput="checkStrong(Password.value)" />
+            <input id="Password" placeholder="password" type="password" oninput="checkPasswordStrength(Password.value)" />
             <input id="check" style="background-color:red" />
         </div>
 
         <div>
-            <button onclick="handelUpdate()">Update</button>
+            <button onclick="handleUpdate()">Update</button>
         </div>
     </span>
     <br></br>
     <div>
-        <button onclick="BackToShopping()">BackToShopping</button>
+        <button onclick="backToShopping()">BackToShopping</button>
     </div>
 
 </body>

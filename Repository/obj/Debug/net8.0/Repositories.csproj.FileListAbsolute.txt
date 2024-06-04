@@ -194,3 +194,26 @@ C:\Users\326238102\Desktop\MyWebApiTests\Repository\obj\Debug\net8.0\refint\Repo
 C:\Users\326238102\Desktop\MyWebApiTests\Repository\obj\Debug\net8.0\Repositories.pdb
 C:\Users\326238102\Desktop\MyWebApiTests\Repository\obj\Debug\net8.0\Repositories.genruntimeconfig.cache
 C:\Users\326238102\Desktop\MyWebApiTests\Repository\obj\Debug\net8.0\ref\Repositories.dll
+M:\WepApi\PROJECT\New folder\MyWebApiTests\Repository\bin\Debug\net8.0\DTO.deps.json
+M:\WepApi\PROJECT\New folder\MyWebApiTests\Repository\bin\Debug\net8.0\DTO.runtimeconfig.json
+M:\WepApi\PROJECT\New folder\MyWebApiTests\Repository\bin\Debug\net8.0\DTO.exe
+M:\WepApi\PROJECT\New folder\MyWebApiTests\Repository\bin\Debug\net8.0\Repositories.deps.json
+M:\WepApi\PROJECT\New folder\MyWebApiTests\Repository\bin\Debug\net8.0\Repositories.runtimeconfig.json
+M:\WepApi\PROJECT\New folder\MyWebApiTests\Repository\bin\Debug\net8.0\Repositories.dll
+M:\WepApi\PROJECT\New folder\MyWebApiTests\Repository\bin\Debug\net8.0\Repositories.pdb
+M:\WepApi\PROJECT\New folder\MyWebApiTests\Repository\bin\Debug\net8.0\DTO.dll
+M:\WepApi\PROJECT\New folder\MyWebApiTests\Repository\bin\Debug\net8.0\Entities.dll
+M:\WepApi\PROJECT\New folder\MyWebApiTests\Repository\bin\Debug\net8.0\DTO.pdb
+M:\WepApi\PROJECT\New folder\MyWebApiTests\Repository\bin\Debug\net8.0\Entities.pdb
+M:\WepApi\PROJECT\New folder\MyWebApiTests\Repository\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+M:\WepApi\PROJECT\New folder\MyWebApiTests\Repository\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+M:\WepApi\PROJECT\New folder\MyWebApiTests\Repository\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+M:\WepApi\PROJECT\New folder\MyWebApiTests\Repository\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+M:\WepApi\PROJECT\New folder\MyWebApiTests\Repository\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+M:\WepApi\PROJECT\New folder\MyWebApiTests\Repository\obj\Debug\net8.0\Repositories.sourcelink.json
+M:\WepApi\PROJECT\New folder\MyWebApiTests\Repository\obj\Debug\net8.0\Repositories.csproj.CopyComplete
+M:\WepApi\PROJECT\New folder\MyWebApiTests\Repository\obj\Debug\net8.0\Repositories.dll
+M:\WepApi\PROJECT\New folder\MyWebApiTests\Repository\obj\Debug\net8.0\refint\Repositories.dll
+M:\WepApi\PROJECT\New folder\MyWebApiTests\Repository\obj\Debug\net8.0\Repositories.pdb
+M:\WepApi\PROJECT\New folder\MyWebApiTests\Repository\obj\Debug\net8.0\Repositories.genruntimeconfig.cache
+M:\WepApi\PROJECT\New folder\MyWebApiTests\Repository\obj\Debug\net8.0\ref\Repositories.dll

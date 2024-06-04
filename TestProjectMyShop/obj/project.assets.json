@@ -8111,11 +8111,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\TestProjectMyShop\\TestProjectMyShop.csproj",
+      "projectUniqueName": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\TestProjectMyShop\\TestProjectMyShop.csproj",
       "projectName": "TestProjectMyShop",
-      "projectPath": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\TestProjectMyShop\\TestProjectMyShop.csproj",
+      "projectPath": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\TestProjectMyShop\\TestProjectMyShop.csproj",
       "packagesPath": "C:\\Users\\326238102\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\TestProjectMyShop\\obj\\",
+      "outputPath": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\TestProjectMyShop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -8136,14 +8136,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\DTO\\DTO.csproj": {
-              "projectPath": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\DTO\\DTO.csproj"
+            "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\DTO\\DTO.csproj": {
+              "projectPath": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\DTO\\DTO.csproj"
             },
-            "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\Models\\Entities.csproj": {
-              "projectPath": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\Models\\Entities.csproj"
+            "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\Models\\Entities.csproj": {
+              "projectPath": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\Models\\Entities.csproj"
             },
-            "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\Repository\\Repositories.csproj": {
-              "projectPath": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\Repository\\Repositories.csproj"
+            "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\Repository\\Repositories.csproj": {
+              "projectPath": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\Repository\\Repositories.csproj"
             }
           }
         }

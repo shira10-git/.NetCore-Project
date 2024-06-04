@@ -25,11 +25,13 @@ namespace MyWebApi
 
             CreateMap<UserDTO, User>();
 
-            CreateMap<User, UserAfterLoginDTO>();
+            CreateMap<User, UserWithIDDTO>();
 
             CreateMap<RegisterDTO, User>();
 
             CreateMap<Order, OrderAfterDTO>();
+
+            CreateMap<Order, OrderReturnDTO>();
 
         }
     }

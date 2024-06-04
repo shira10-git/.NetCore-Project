@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "aeJ5RK+VdoAUG2L2YObs16UXM2/oymqs2jpm4t+babM=",
+  "Hash": "VKJg38TWXpukryf2iZ9uZpwnvyfoBVzR64h5unWwxdk=",
   "Source": "MyWebApi",
   "BasePath": "_content/MyWebApi",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "MyWebApi\\wwwroot",
       "Source": "MyWebApi",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\Home.html",
+      "Identity": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\Home.html",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Home.html",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\Home.html"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\Images\\BagActive.png",
+      "Identity": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\Images\\BagActive.png",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Images/BagActive.png",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\BagActive.png"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\Images\\book1.jpg",
+      "Identity": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\Images\\book1.jpg",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Images/book1.jpg",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\book1.jpg"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\Images\\book2.JPG",
+      "Identity": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\Images\\book2.JPG",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Images/book2.JPG",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\book2.JPG"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\Images\\icn-remove.png",
+      "Identity": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\Images\\icn-remove.png",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Images/icn-remove.png",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\icn-remove.png"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\Images\\searchIcon.svg",
+      "Identity": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\Images\\searchIcon.svg",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Images/searchIcon.svg",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\searchIcon.svg"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\Products.html",
+      "Identity": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\Products.html",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Products.html",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\Products.html"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\README.md",
+      "Identity": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\README.md",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "README.md",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\README.md"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\Scripts\\Home.js",
+      "Identity": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\Scripts\\Home.js",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Scripts/Home.js",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\Scripts\\Home.js"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\Scripts\\Products.js",
+      "Identity": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\Scripts\\Products.js",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Scripts/Products.js",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\Scripts\\Products.js"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\Scripts\\ShippingBage.js",
+      "Identity": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\Scripts\\ShippingBage.js",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Scripts/ShippingBage.js",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\Scripts\\ShippingBage.js"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\Scripts\\User.js",
+      "Identity": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\Scripts\\User.js",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Scripts/User.js",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\Scripts\\User.js"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\ShoppingBag.html",
+      "Identity": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\ShoppingBag.html",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "ShoppingBag.html",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\ShoppingBag.html"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\Style\\Home.css",
+      "Identity": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\Style\\Home.css",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Style/Home.css",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\Home.css"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\Style\\Products.css",
+      "Identity": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\Style\\Products.css",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Style/Products.css",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\Products.css"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\Style\\ShoppingBag.css",
+      "Identity": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\Style\\ShoppingBag.css",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Style/ShoppingBag.css",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\ShoppingBag.css"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\Style\\User.css",
+      "Identity": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\Style\\User.css",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Style/User.css",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\User.css"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\User.html",
+      "Identity": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\User.html",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "User.html",
       "AssetKind": "All",
