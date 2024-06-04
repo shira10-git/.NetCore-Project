@@ -44,6 +44,8 @@ namespace Services
             {
                 Product product;
                 product = await shopDbContext.Products.FirstOrDefaultAsync(p => p.ProductId == item.ProductId);
+                if (product == null)
+                    return 0;
                 sum = (double)(sum + product.Price * item.Quentity);
             }
             return sum;

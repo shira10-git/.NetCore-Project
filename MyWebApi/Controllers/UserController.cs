@@ -48,7 +48,6 @@ namespace MyWebApi.Controllers
             User u =await userService.Register(user);
             if (u!=null)
                 return CreatedAtAction(nameof(Get), new { id = u.UserId }, u);
-            //return Ok(u);
             return NoContent();
         }
 
@@ -70,14 +69,19 @@ namespace MyWebApi.Controllers
         }
 
         [HttpPut("{id}")]
-        public async Task<ActionResult<User>> Update(int id, [FromBody] User user)
+        public async Task<ActionResult<User>> Update(int id, [FromBody] UserDTO user)
         {
-            User u=await userService.Update(id,user);
-            if (u != null)
-                return Ok(u);
-            return NoContent();
-        }
+            UserDTO prevUser=await userService.returnPrev(id,user);
 
-   
+            User userAfter = mapper.Map<UserDTO, User>(prevUser);
+
+            User u =await userService.Update(id, userAfter);
+            if (u != null)
+            {
+                UserDTO uu = mapper.Map<User, UserDTO>(u);
+                return Ok(uu);
+            }     
+            return NoContent();
+        } 
     }
 }

@@ -36,10 +36,10 @@ namespace Repositories
         }
         public async Task<User> Update(int id,User user)
         {
-            var userDb=await shopDbContext.Users.FirstOrDefaultAsync(u => user.UserId==id);
+            var userDb=await shopDbContext.Users.FirstOrDefaultAsync(u => u.UserId==id);
             if (userDb == null)
                 return null;
-
+           
             userDb.UserName = user.UserName;
             userDb.Password = user.Password;
             userDb.FirstName = user.FirstName;
@@ -55,5 +55,6 @@ namespace Repositories
             var user = await shopDbContext.Users.FindAsync(id);
             return user;
         }
+ 
     }
 }

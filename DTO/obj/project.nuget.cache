@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "55Wgv4mJ/kdejaeGjubX+A8amnysXISMQrALAdJ58qxODYeuEE92E9voc75kH2n8wJgKQVFSWGIzJN1fL7vx4A==",
+  "dgSpecHash": "tzI9pP69mfc17SURj0HwBC8MEpNjL+0yfqABYlqoeN9oZlzR5viElpagXrQ7ggwwD8nKGZ4BJ9OgssMuOzMHYQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\326238102\\Desktop\\project\\MyWebApiTests\\DTO\\DTO.csproj",
+  "projectFilePath": "C:\\Users\\326238102\\Desktop\\MyWebApiTests\\DTO\\DTO.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

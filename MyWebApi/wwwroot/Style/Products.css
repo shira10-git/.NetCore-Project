@@ -1,20 +1,23 @@
-﻿html, body {
-    direction:rtl;
-    margin:0;
-    padding:0;
+﻿
+html, body {
+    font-family: 'Roboto', Arial, sans-serif;
+    direction: rtl;
+    margin: 0;
+    padding: 0;
+
 }
 
 * {
     font-size: 100%;
-    font-family: system-ui;
+    font-family: 'Roboto', Arial, sans-serif;
 }
 
-ul{
-    margin:0;
+ul {
+    margin: 0;
 }
 
-.floatRight{
-    float:right;
+.floatRight {
+    float: right;
 }
 
 .QuickLinks ul li a::after {
@@ -23,43 +26,49 @@ ul{
     margin-left: 10px;
 }
 
-
-.QuickLinks ul li a::after {
-    content: '|';
-    margin-right: 10px;
-    margin-left: 10px;
+.QuickLinks ul li a::last-of-type::after {
+    content: '';
 }
 
 .card {
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    font-family: 'Roboto', Arial, sans-serif;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     max-width: 300px;
     margin: auto;
     text-align: center;
-    font-family: arial;
-    padding:15px;
-    float:left;
-    height:550px;
-    margin:6px;
+    padding: 15px;
+    float: left;
+    height: 550px;
+    margin: 6px;
+    background-color: #ffffff; 
 }
 
-.img-w{
-    height:300px;
+.img-w {
+    height: 300px;
 }
 
-p.description{
-    height:65px;
+p.description {
+    height: 65px;
 }
-.bar::before {
-    content: 'חנות הספרים שלי';
+
+.bar {
+    background-color: #0288d1; 
+    height: 35px;
     color: white;
-    /* display: inline-block; */
-    position: absolute;
-    /* margin: 0 auto; */
-    /* display: block; */
-    top: 8px;
-    left: 51%;
-    font-family: Helvetica;
+    position: relative;
 }
+
+    .bar::before {
+        content: 'חנות הספרים שלי';
+        color: white; 
+        display: inline-block;
+        position: absolute;
+        margin: 0 auto;
+        top: 8px;
+        left: 51%;
+        font-family: 'Roboto', Arial, sans-serif;
+    }
+
 .price {
     color: grey;
     font-size: 22px;
@@ -70,20 +79,17 @@ p.description{
     outline: 0;
     padding: 12px;
     color: white;
-    background-color: #000;
+    background-color: #0288d1;
     text-align: center;
     cursor: pointer;
     width: 100%;
     font-size: 18px;
 }
 
-.card button:hover {
-    opacity: 0.7;
-}
-.bar {
-    background-color: black;
-    height: 35px;
-}
+    .card button:hover {
+        opacity: 0.8;
+        background-color: #4CAF50;
+    }
 
 .Icon {
     background-image: url(../Images/BagActive.png);
@@ -108,8 +114,9 @@ p.description{
         font-size: 100%;
         margin-top: -1px;
     }
+
 .goToCart {
-    background: #1a6461;
+    background: #0288d1;
     font-size: 11px;
     color: #fff;
     padding-bottom: 7px;
@@ -118,43 +125,44 @@ p.description{
     padding-top: 6px;
     border: 0;
     text-transform: uppercase;
-    font-family: 'azo-sans',sans-serif;
+    font-family: 'Roboto', Arial, sans-serif;
     border-radius: 3px;
     display: inline-block;
     float: right;
-    margin:4px;
+    margin: 4px;
+    text-decoration: none;
 }
+
+    .goToCart:hover {
+        background: #0277bd; 
+    }
 
 .addedToBagDialogue::before {
     background-color: #fff;
-    box-shadow: 2px -2px 2px rgba(0,0,0,.2);
+    box-shadow: 2px -2px 2px rgba(0, 0, 0, 0.2);
     content: " ";
     display: block;
     height: 15px;
     left: 60px;
     position: absolute;
     top: -7px;
-    -ms-transform: rotate(-45deg);
-    -webkit-transform: rotate(-45deg);
     transform: rotate(-45deg);
     vertical-align: top;
     width: 15px;
     z-index: 4999;
 }
 
-
 .QuickLinks ul li a {
     display: block;
     text-decoration: none;
     font-size: 12px;
-    color: white;
-    font-family: Helvetica;
+    color: white; 
+    font-family: 'Roboto', Arial, sans-serif;
 }
 
 .QuickLinks ul li {
-  float:left;
+    float: left;
 }
-
 
 .Filters {
     position: absolute;
@@ -166,11 +174,11 @@ p.description{
     position: absolute;
     z-index: 102;
     background-color: rgb(249, 249, 249);
-    font-family: Arial;
+    font-family: 'Roboto', Arial, sans-serif;
     font-size: 14px;
-    min-height:100%;
-
+    min-height: 100%;
 }
+
 .nameFilter input {
     width: 70%;
     height: 24px;
@@ -179,8 +187,6 @@ p.description{
 .filterBreak {
     padding-top: 10vh;
 }
-
-
 
 .priceInputText {
     background-color: #fff;
@@ -192,8 +198,8 @@ p.description{
     border-radius: 3px;
     box-shadow: 0 1px 2px rgb(15 17 17 / 15%) inset;
     outline: 0;
-
 }
+
 .priceCurrency {
     position: absolute;
     margin-top: 6.5px;
@@ -214,7 +220,7 @@ p.description{
     }
 
         .pagination a.active {
-            background-color: #4CAF50;
+            background-color: #0288d1; 
             color: white;
         }
 

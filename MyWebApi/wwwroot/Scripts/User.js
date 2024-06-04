@@ -15,11 +15,25 @@ const showUpdate = () => {
 const handelUpdate = async () => {
     const userId = sessionStorage.getItem("userID");
     const userName = document.getElementById("UserName").value;
-    const LastName = document.getElementById("LastName").value;
-    const Password = document.getElementById("Password").value;
+    const lastName = document.getElementById("LastName").value;
+    const password = document.getElementById("Password").value;
     const firstName = document.getElementById("FirstName").value;
+    const email = document.getElementById("Email").value;
 
-    const user = { userName: userName, lastName: LastName, Password: Password, firstName: firstName, userId: userId }
+    let user = {}
+    if (userName != "")
+        user.userName = userName;
+    if (lastName != "")
+        user.lastName = lastName;
+    if (password != "")
+        user.password = password;
+    if (firstName != "")
+        user.firstName = firstName;
+    if (email != "")
+        user.email = email;
+    //const user = { userName: userName, lastName: lastName, password: password, firstName: firstName, userId: userId, email: email }
+    console.log(user);
+
     var respones = await fetch(`api/User/${userId}`,
         {
             method: "PUT",
@@ -27,7 +41,6 @@ const handelUpdate = async () => {
                 'Content-Type': "application/json"
             },
             body: JSON.stringify(user)
-
         })
 
     if (respones.status == 204) {

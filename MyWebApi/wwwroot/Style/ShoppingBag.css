@@ -1,155 +1,105 @@
-﻿html, body {
-    direction: rtl;
+﻿body {
+    font-family: 'Roboto', Arial, sans-serif;
+    background-color: #f5f5f5;
+    color: #333;
+    direction: rtl; 
     margin: 0;
     padding: 0;
 }
 
 .cart {
-    width: 960px;
-    margin: 0 auto;
-}
-th {
-    padding: 9px 11px;
-    text-align: right;
-    border-top: 1px solid #C7C5C5;
-    border-bottom: 1px solid #C7C5C5;
-    font-size: 13px;
-    font-weight: 500;
-    padding: 6px 0px;
-    font-family: 'azo-sans', sans-serif;
-    text-transform: uppercase;
-}
- td.imageColumn {
-    width: 66px;
-}
-
-th.itemsColumn,td.imageColumn {
-    padding-right: 10px;
-}
-
-td {
-    padding: 15px;
-    padding-right: 0;
-    vertical-align: top;
-    border-bottom: 1px solid #C7C5C5;
-}
-
-
-.itemName, .subItemName {
-    font-family: 'azo-sans', sans-serif;
-    font-weight: 400;
-    margin-bottom: 2px;
-    font-size: 14px;
-    line-height: 100%;
-}
-
-
-.availabilityColumn {
-    width: 205px;
-    min-width: 205px;
-    max-width: 205px;
-    font-size: 14px;
-    color: #4D8958;
-    font-family: 'azo-sans', sans-serif;
-}
-.imageColumn div {
-    width: 66px;
-    height: 99px;
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-position: right center;
-}
-
-.delete a.showText {
-    text-indent: 0;
-    width: 90px;
-    padding-left: 10px;
-    background-image: url(/Images/icn-remove.png);
-    height: 24px;
-    background-position: left -3px;
-    font-size: 11px !important;
-    line-height: 15px;
-    position:relative;
-}
-
-.delete a {
-    display: block;
-    background-repeat: no-repeat;
-    text-decoration: none;
-    text-align: right;
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    color:black;
-}
-
-.price {
-    font-weight: 500;
-    font-size: 16px;
-    margin-bottom: 2px;
-    font-family: 'azo-sans', sans-serif;
-    font-weight: 600 !important;
+    max-width: 80%;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 #title {
-    margin: 8px 0 12px;
-    padding-left: 15px;
+    text-align: center;
+    margin-bottom: 20px;
 }
 
     #title h1 {
-        margin: 15px 0 2px 0;
-        font-family: 'azo-sans', sans-serif;
-        font-size: 18px;
-        font-weight: 300;
-        line-height: 100%;
-        float: right;
+        margin: 0;
+        font-size: 2em;
+        color: #333;
     }
 
-h1 {
-    font: 236.36% 'azo-sans',sans-serif;
-}
-
-#title p {
-    font-size: 11px;
-    float: right;
-    padding-right: 10px;
-    padding-top: 19px;
-}
-
-p, fieldset {
-    margin-bottom: 1em;
-}
-
-a.GoToCheckout.TopLink {
-    margin-top: 10px;
-}
-
-.ShoppingBag a.GoToCheckout {
-    float: left;
-    margin-right: 23px;
-}
+    #title p {
+        margin-top: 10px;
+        font-size: 1.2em;
+        color: #555;
+    }
 
 .nxbtn.primary {
-    background: #1a6461;
-    font-size: 11px;
-}
-
-.nxbtn.primary, .nxbtn.secondary {
-    padding-top: 6px;
-    padding-bottom: 7px;
-    color: #fff;
-    border: 0;
-    text-transform: uppercase;
-    font-family: 'azo-sans',sans-serif;
-}
-
-.ContentArea a {
-    color: #111;
+    background-color: #4CAF50;
+    color: #ffffff;
+    padding: 12px 24px;
     text-decoration: none;
+    border-radius: 5px;
+    font-size: 1em;
+    transition: background-color 0.3s ease;
+    margin: 5px;
 }
 
-.nxbtn {
-    border-radius: 3px;
-    display: inline-block;
-    padding: 4px 10px;
+    .nxbtn.primary:hover {
+        background-color: #0056b3;
+    }
+
+.shopmore {
+    color: #007BFF;
+    padding: 12px 24px;
+    font-size: 1em;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: color 0.3s ease, background-color 0.3s ease;
+    margin: 5px;
 }
+
+    .shopmore:hover {
+        color: #0056b3;
+        background-color: #e9ecef;
+    }
+
+.ClearBoth {
+    clear: both;
+}
+
+.items {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+    .items th, .items td {
+        padding: 15px;
+        text-align: center;
+        border: 1px solid #dddddd;
+    }
+
+    .items th {
+        background-color: #007BFF;
+        color: #ffffff;
+        font-size: 1em;
+    }
+
+    .items td {
+        background-color: #ffffff;
+        color: #333;
+    }
+
+.totalColumn .DeleteButton {
+    background-color: #dc3545;
+    color: #ffffff;
+    padding: 8px 16px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1em;
+    transition: background-color 0.3s ease;
+}
+
+    .totalColumn .DeleteButton:hover {
+        background-color: #c82333;
+    }

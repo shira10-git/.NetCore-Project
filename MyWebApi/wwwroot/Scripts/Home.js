@@ -1,12 +1,13 @@
 let thisUser = {}
-let id=0;
+let id = 0;
 
 const handelRegister = async (data) => {
     console.log("ddddd" + data.Email)
-    const checkValid = await validateEmail(data.email)
+    const checkValid = await validateEmail(data.Email)
     console.log(checkValid)
-    if (checkValid)
+    if (checkValid==true) {
         sendToRegister(data)
+    }
     else {
         alert("invalid email!")
     }
@@ -48,40 +49,16 @@ const handelLogin = async () => {
         alert("welcome to!! " + data.userName)
         console.log(data.userId)
         sessionStorage.setItem("userID", data.userId);
-        sessionStorage.setItem("basket","[]")
+        sessionStorage.setItem("basket", "[]")
         window.location.replace("Products.html")
     }
 
-    }
+}
 
 const showReg = () => {
     document.getElementById("reg").style.display = "block"
 }
 
-
-//const checkStrong = async (data) => {
-//    const respones = await fetch("api/User/check",
-//        {
-//            method: 'POST',
-//            headers: { 'Content-Type': 'application/json' },
-//            body: JSON.stringify(data)
-//        });
-//    const result = await respones.json()
-//    if (result == 0) {
-//        let color = document.getElementById("check")
-//        color.style.setProperty("background-color", "red")
-//    }
-//    if (result == 1) {
-//        let color = document.getElementById("check")
-//        color.style.setProperty("background-color", "orange")
-//    }
-//    if (result >= 2) {
-//        let color = document.getElementById("check")
-//        color.style.setProperty("background-color", "green")
-//        showRegister()
-//    }
-//    return result;
-//}
 const checkStrong = async (data) => {
     try {
         const response = await fetch("api/User/check", {
@@ -125,6 +102,7 @@ const showRegister = () => {
 function validateEmail(email) {
     const emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
     return emailPattern.test(email);
+    
 }
 
 
