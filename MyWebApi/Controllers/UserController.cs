@@ -73,7 +73,7 @@ namespace MyWebApi.Controllers
         [HttpPut("{id}")]
         public async Task<ActionResult<UserDTO>> Update(int id, [FromBody] UserDTO user)
         {
-            UserDTO prevUser=await userService.returnPrev(id,user);
+            UserDTO prevUser=await userService.ReturnPrev(id,user);
 
             User userAfter = mapper.Map<UserDTO, User>(prevUser);
 

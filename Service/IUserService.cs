@@ -15,6 +15,6 @@ namespace Services
         Task<User> Update(int id, User user);
         Task<User> Get(int id);
         int Check(object password);
-        Task<UserDTO> returnPrev(int id, UserDTO user);
+        Task<UserDTO> ReturnPrev(int id, UserDTO user);
     }
 }

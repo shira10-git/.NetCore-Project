@@ -44,7 +44,7 @@ namespace Services
             return result.Score;
         }
 
-        public async Task<UserDTO> returnPrev(int id, UserDTO user)
+        public async Task<UserDTO> ReturnPrev(int id, UserDTO user)
         {
             User prevUser = await Get(id);
 
