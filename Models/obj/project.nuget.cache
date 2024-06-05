@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "943Jb9sBGVJyGmhFAS1YId+nU67LBNiqag3T3nVKVo7cBfo4o5I8RHaQuYL+nymwXjfrGy67lYTMwyetrRxO6A==",
+  "dgSpecHash": "5euoF61La3lab750vnVyMGf9DvBGgiLvJcmLhc/p5P97xUGyLzWcEDjhZyiTGtj7UfAE3u41qNPrtpQshSlpaA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\326238102\\Desktop\\.NetCore-Project\\Models\\Entities.csproj",
+  "projectFilePath": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\Models\\Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
