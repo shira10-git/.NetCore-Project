@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\Models\\Entities.csproj": {}
+    "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\Models\\Entities.csproj": {}
   },
   "projects": {
-    "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\Models\\Entities.csproj": {
+    "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\Models\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\Models\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\Models\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\Models\\Entities.csproj",
+        "projectPath": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\Models\\Entities.csproj",
         "packagesPath": "C:\\Users\\326238102\\.nuget\\packages\\",
-        "outputPath": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\Models\\obj\\",
+        "outputPath": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

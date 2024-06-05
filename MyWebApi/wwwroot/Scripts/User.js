@@ -7,12 +7,24 @@ window.addEventListener("load", async function () {
 });
 
 const getDetails = async () => {
-    currentUser = sessionStorage.getItem("user");
-    currentUser = await JSON.parse(currentUser);
     userId = await JSON.parse(sessionStorage.getItem("userID"))
+    currentUser = await getCurrentUser();
     console.log(currentUser);
     console.log("u", userId);
 };
+
+const getCurrentUser = async () => {
+    try {
+        const response = await fetch(`api/User/${userId}`);
+        const user = await response.json();
+        if (user) {
+            console.log(user);
+            return user; 
+        }
+    } catch {
+        alert("try again");
+    }
+}
 
 const showUpdateForm = () => {
     document.getElementById("update").style.display = "block";
