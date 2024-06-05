@@ -11,26 +11,26 @@ namespace MyWebApi.Controllers
     [ApiController]
     public class UserController : ControllerBase
     {
-        private IUserService userService;
-        private IMapper mapper;
-        private readonly ILogger<UserController> logger;
+        private IUserService _userService;
+        private IMapper _mapper;
+        private readonly ILogger<UserController> _logger;
 
         public UserController(IUserService userService,IMapper mapper, ILogger<UserController> logger)
         {
-            this.userService = userService;
-            this.mapper = mapper;
-            this.logger = logger;
+            _userService = userService;
+            _mapper = mapper;
+            _logger = logger;
         }
         
         [HttpPost("login")]
         public async Task<ActionResult<UserWithIDDTO>> Login([FromBody] LoginDTO userLogin)
         {
-            User u = await userService.Login(userLogin);
+            User u = await _userService.Login(userLogin);
 
-            UserWithIDDTO userAfter = mapper.Map<User, UserWithIDDTO>(u);
+            UserWithIDDTO userAfter = _mapper.Map<User, UserWithIDDTO>(u);
             if (userAfter != null)
             {
-                logger.LogInformation($"login attempted with UserName {userAfter.UserName}");
+                _logger.LogInformation($"login attempted with UserName {userAfter.UserName}");
                 return Ok(userAfter);
             }   
             return NoContent();
@@ -40,12 +40,12 @@ namespace MyWebApi.Controllers
         [HttpPost("register")]
         public async Task<ActionResult<UserWithIDDTO>> Register([FromBody] RegisterDTO userDto)
         {
-            var user = mapper.Map<RegisterDTO, User>(userDto);
+            var user = _mapper.Map<RegisterDTO, User>(userDto);
 
-            User u =await userService.Register(user);
+            User u =await _userService.Register(user);
             if (u != null)
             {
-                var userToReturn = mapper.Map<User, UserWithIDDTO>(u);
+                var userToReturn = _mapper.Map<User, UserWithIDDTO>(u);
                 return CreatedAtAction(nameof(Get), new { id = userToReturn.UserId }, userToReturn);
             }
                 
@@ -56,7 +56,7 @@ namespace MyWebApi.Controllers
         public ActionResult Check([FromBody] object password)
         {
             
-            var result = userService.Check(password);
+            var result = _userService.Check(password);
             if (result >= 2)
                 return Ok(result);
             return Accepted(result);
@@ -65,22 +65,22 @@ namespace MyWebApi.Controllers
         [HttpGet("{id}")]
         public async Task<UserDTO> Get(int id)
         {
-            var user = await userService.Get(id);
-            var userToReturn = mapper.Map<User, UserDTO>(user);
+            var user = await _userService.Get(id);
+            var userToReturn = _mapper.Map<User, UserDTO>(user);
             return userToReturn;
         }
 
         [HttpPut("{id}")]
         public async Task<ActionResult<UserDTO>> Update(int id, [FromBody] UserDTO user)
         {
-            UserDTO prevUser=await userService.ReturnPrev(id,user);
+            UserDTO prevUser=await _userService.ReturnPrev(id,user);
 
-            User userAfter = mapper.Map<UserDTO, User>(prevUser);
+            User userAfter = _mapper.Map<UserDTO, User>(prevUser);
 
-            User u =await userService.Update(id, userAfter);
+            User u =await _userService.Update(id, userAfter);
             if (u != null)
             {
-                UserDTO uu = mapper.Map<User, UserDTO>(u);
+                UserDTO uu = _mapper.Map<User, UserDTO>(u);
                 return Ok(uu);
             }     
             return NoContent();

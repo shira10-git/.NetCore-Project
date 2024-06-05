@@ -4146,11 +4146,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\Repository\\Repositories.csproj",
+      "projectUniqueName": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\Repository\\Repositories.csproj",
       "projectName": "Repositories",
-      "projectPath": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\Repository\\Repositories.csproj",
+      "projectPath": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\Repository\\Repositories.csproj",
       "packagesPath": "C:\\Users\\326238102\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\Repository\\obj\\",
+      "outputPath": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4171,11 +4171,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\DTO\\DTO.csproj": {
-              "projectPath": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\DTO\\DTO.csproj"
+            "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\DTO\\DTO.csproj": {
+              "projectPath": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\DTO\\DTO.csproj"
             },
-            "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\Models\\Entities.csproj": {
-              "projectPath": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\Models\\Entities.csproj"
+            "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\Models\\Entities.csproj": {
+              "projectPath": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\Models\\Entities.csproj"
             }
           }
         }

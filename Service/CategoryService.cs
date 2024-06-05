@@ -10,22 +10,22 @@ namespace Services
 {
     public class CategoryService : ICategoryService
     {
-        private ICategoryRepository categoryRepository;
+        private ICategoryRepository _categoryRepository;
         public CategoryService(ICategoryRepository categoryRepository)
         {
-            this.categoryRepository = categoryRepository;
+            _categoryRepository = categoryRepository;
         }
 
 
         public async Task<List<Category>> Get()
         {
-            var category = await categoryRepository.Get();
+            var category = await _categoryRepository.Get();
             return category;
         }
 
         public async Task<List<Category>> Get(int id)
         {
-            var category = await categoryRepository.Get(id);
+            var category = await _categoryRepository.Get(id);
             return category;
         }
     }

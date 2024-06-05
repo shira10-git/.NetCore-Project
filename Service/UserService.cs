@@ -6,10 +6,10 @@ namespace Services
 {
     public class UserService : IUserService
     {
-        private IUserRepository userRepository;
+        private IUserRepository _userRepository;
         public UserService(IUserRepository userRepository)
         {
-            this.userRepository = userRepository;
+            _userRepository = userRepository;
         }
 
         async Task<User> IUserService.Update(int id, User user)
@@ -17,12 +17,12 @@ namespace Services
             var checkStrength = Check(user.Password);
             if (checkStrength < 2)
                 return null;
-            User u = await userRepository.Update(id, user);
+            User u = await _userRepository.Update(id, user);
             return u;
         }
         async Task<User> IUserService.Login(LoginDTO userLogin)
         {
-            User u = await userRepository.Login(userLogin);
+            User u = await _userRepository.Login(userLogin);
             return u;
         }
         async Task<User> IUserService.Register(User user)
@@ -30,13 +30,13 @@ namespace Services
             var checkStrength = Check(user.Password);
             if (checkStrength < 2)
                 return null;
-            User u = await userRepository.Register(user);
+            User u = await _userRepository.Register(user);
             return u;
         }
 
         public async Task<User> Get(int id)
         {
-            return await userRepository.Get(id);
+            return await _userRepository.Get(id);
         }
         public int Check(object password)
         {

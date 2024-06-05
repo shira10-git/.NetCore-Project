@@ -10,15 +10,15 @@ namespace Repositories
     public class OrderRepository : IOrderRepository
     {
 
-        ShopDb325338135Context shopDbContext;
+        ShopDb325338135Context _shopDbContext;
         public OrderRepository(ShopDb325338135Context shopDbContext)
         {
-            this.shopDbContext = shopDbContext;
+            _shopDbContext = shopDbContext;
         }
         public async Task<Order> Post(Order order)
         {
-           await shopDbContext.Orders.AddAsync(order);
-           await shopDbContext.SaveChangesAsync();
+           await _shopDbContext.Orders.AddAsync(order);
+           await _shopDbContext.SaveChangesAsync();
            return order;
         }
     }

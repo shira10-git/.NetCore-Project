@@ -12,10 +12,10 @@ namespace Repositories
 {
     public class RatingRepository : IRatingRepository
     {
-        private readonly IConfiguration configuration;
+        private readonly IConfiguration _configuration;
         public RatingRepository(IConfiguration configuration)
         {
-            this.configuration = configuration;
+            _configuration = configuration;
         }
         public RatingRepository()
         {
@@ -26,7 +26,7 @@ namespace Repositories
         {
             string query = "INSERT INTO RATING(HOST, METHOD, [PATH], REFERER, USER_AGENT, Record_Date)" +
                            "VALUES(@HOST, @METHOD, @PATH, @REFERER, @USER_AGENT, @Record_Date)";
-            using (SqlConnection cn = new SqlConnection(configuration.GetConnectionString("School")))
+            using (SqlConnection cn = new SqlConnection(_configuration.GetConnectionString("School")))
             {
                 using (SqlCommand cmd = new SqlCommand(query, cn))
                 {

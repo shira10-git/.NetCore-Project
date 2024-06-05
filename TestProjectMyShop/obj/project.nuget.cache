@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fpCBm/P8oZEnFG+ZvM9qRO5Obn9gm2vNQrGlAxzxJUl0Z218Dm8DnJI8s/RPRvyLzvKK00/T7Wg4VYhd2WsDXQ==",
+  "dgSpecHash": "H8npBpdoJTu4bgKZ3bJUn1OYkZowJA3Iw0VzA9wEO9o0nGpKwUgazinnDCCSwq4l4ESIPf0CH+VO2zK/jVCChg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\TestProjectMyShop\\TestProjectMyShop.csproj",
+  "projectFilePath": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\TestProjectMyShop\\TestProjectMyShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\326238102\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\326238102\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

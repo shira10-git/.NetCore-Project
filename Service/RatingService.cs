@@ -10,15 +10,15 @@ namespace Services
 {
     public class RatingService : IRatingService
     {
-        private IRatingRepository ratingRepository;
+        private IRatingRepository _ratingRepository;
         public RatingService(IRatingRepository ratingRepository)
         {
-            this.ratingRepository = ratingRepository;
+            _ratingRepository = ratingRepository;
         }
 
         public async Task<Rating> Post(Rating r)
         {
-            var rating = await ratingRepository.Post(r);
+            var rating = await _ratingRepository.Post(r);
             return rating;
         }
     }

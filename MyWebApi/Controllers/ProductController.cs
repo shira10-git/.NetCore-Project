@@ -10,25 +10,25 @@ namespace MyWebApi.Controllers
     [ApiController]
     public class ProductController : ControllerBase
     {
-        private IProductService productService;
-        private IMapper mapper;
-        private readonly ILogger<ProductController> logger;
+        private IProductService _productService;
+        private IMapper _mapper;
+        private readonly ILogger<ProductController> _logger;
 
         public ProductController(IProductService productService,IMapper mapper, ILogger<ProductController> logger)
         {
-            this.productService = productService;
-            this.mapper = mapper;
-            this.logger = logger;
+            _productService = productService;
+            _mapper = mapper;
+            _logger = logger;
         } 
 
         [HttpGet]
         public async Task<ActionResult<List<ProductDTO>>>Get([FromQuery] string? desc, [FromQuery] int? minPrice, [FromQuery] int? maxPrice,[FromQuery] int?[] categoryIds, int position = 1, int skip = 20)
         {
 
-            var result= await productService.Get( desc, minPrice, maxPrice, categoryIds, position, skip);
+            var result= await _productService.Get( desc, minPrice, maxPrice, categoryIds, position, skip);
             if (result != null)
             {
-                var productsDto = mapper.Map<List<Product>, List<ProductDTO>>((List<Product>)result);
+                var productsDto = _mapper.Map<List<Product>, List<ProductDTO>>((List<Product>)result);
                 if (productsDto.Count()>0)
                 {
                     

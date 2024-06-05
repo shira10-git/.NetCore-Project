@@ -13,15 +13,15 @@ namespace Services
 {
     public class OrderService : IOrderService
     {
-        ShopDb325338135Context shopDbContext;
-        private IOrderRepository orderRepository;
-        private ILogger<OrderService> logger;
+        ShopDb325338135Context _shopDbContext;
+        private IOrderRepository _orderRepository;
+        private ILogger<OrderService> _logger;
 
         public OrderService(IOrderRepository orderRepository, ShopDb325338135Context shopDbContext, ILogger<OrderService> logger)
         {
-            this.orderRepository = orderRepository;
-            this.shopDbContext = shopDbContext;
-            this.logger = logger;
+            _orderRepository = orderRepository;
+            _shopDbContext = shopDbContext;
+            _logger = logger;
         }
 
         public async Task<Order> Post(Order order)
@@ -29,11 +29,11 @@ namespace Services
             double sum = await checkThief(order);
             if (sum != order.OrderSum)
             {
-                logger.LogError($"trying to steal {order.UserId}");
+                _logger.LogError($"trying to steal {order.UserId}");
                 return null;
             }
 
-            Order newOrder = await orderRepository.Post(order);
+            Order newOrder = await _orderRepository.Post(order);
             return newOrder;
         }
 
@@ -43,7 +43,7 @@ namespace Services
             foreach (var item in order.OrderItems)
             {
                 Product product;
-                product = await shopDbContext.Products.FirstOrDefaultAsync(p => p.ProductId == item.ProductId);
+                product = await _shopDbContext.Products.FirstOrDefaultAsync(p => p.ProductId == item.ProductId);
                 if (product == null)
                     return 0;
                 sum = (double)(sum + product.Price * item.Quentity);
