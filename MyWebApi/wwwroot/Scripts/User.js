@@ -1,17 +1,33 @@
-
 let currentUser = {};
 let userId;
 
-const getDetails = (user) => {
-    console.log(user);
-    currentUser = user;
-    userId = user.id;
-    alert(userId);
+window.addEventListener("load", async function () {
+    console.log("startUser");
+    await getDetails()
+});
+
+const getDetails = async () => {
+    currentUser = sessionStorage.getItem("user");
+    currentUser = await JSON.parse(currentUser);
+    userId = await JSON.parse(sessionStorage.getItem("userID"))
+    console.log(currentUser);
+    console.log("u", userId);
 };
 
 const showUpdateForm = () => {
     document.getElementById("update").style.display = "block";
+    showUserDetails();
 };
+
+const showUserDetails = async() => {
+    console.log("show", currentUser);
+    document.getElementById("UserName").value = currentUser.userName.trim();
+    document.getElementById("LastName").value = currentUser.lastName.trim();
+    document.getElementById("Password").value = currentUser.password.trim();
+    document.getElementById("FirstName").value = currentUser.firstName.trim();
+    document.getElementById("Email").value = currentUser.email.trim();
+    await checkPasswordStrength(currentUser.password.trim())
+}
 
 const handleUpdate = async () => {
     const userId = sessionStorage.getItem("userID");
