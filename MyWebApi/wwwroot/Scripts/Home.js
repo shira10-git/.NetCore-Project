@@ -51,7 +51,6 @@ const handleLogin = async () => {
             console.log("User ID:", data.userId);
 
             sessionStorage.setItem("userID", data.userId);
-            //sessionStorage.setItem("user",JSON.stringify(data))
             sessionStorage.setItem("basket", "[]");
             window.location.replace("Products.html");
         }
