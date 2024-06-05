@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XYlEf3W/FuOF+PKRUigroSc8Po3lTpWHN7k91TvIBhEe/fpEg9KnXrat/oUXspb5HRlYTcfnNhp7kQg/uqVkOw==",
+  "dgSpecHash": "w+QfRM35YFUvQeBG87YqCmoiOabDUBJ12NVH5uX9IUPEnKbFE6gSxyxOSoBpt+6ynvrHOE4cFOlC2+hja3CWLA==",
   "success": true,
-  "projectFilePath": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\DTO\\DTO.csproj",
+  "projectFilePath": "C:\\Users\\326238102\\Desktop\\.NetCore-Project\\DTO\\DTO.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

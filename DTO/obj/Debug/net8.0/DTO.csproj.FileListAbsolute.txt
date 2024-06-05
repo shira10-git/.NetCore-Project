@@ -164,3 +164,41 @@ M:\WepApi\PROJECT\New folder\MyWebApiTests\DTO\obj\Debug\net8.0\refint\DTO.dll
 M:\WepApi\PROJECT\New folder\MyWebApiTests\DTO\obj\Debug\net8.0\DTO.pdb
 M:\WepApi\PROJECT\New folder\MyWebApiTests\DTO\obj\Debug\net8.0\DTO.genruntimeconfig.cache
 M:\WepApi\PROJECT\New folder\MyWebApiTests\DTO\obj\Debug\net8.0\ref\DTO.dll
+C:\Users\326238102\Source\Repos\.NetCore-Project\DTO\bin\Debug\net8.0\DTO.exe
+C:\Users\326238102\Source\Repos\.NetCore-Project\DTO\bin\Debug\net8.0\DTO.deps.json
+C:\Users\326238102\Source\Repos\.NetCore-Project\DTO\bin\Debug\net8.0\DTO.runtimeconfig.json
+C:\Users\326238102\Source\Repos\.NetCore-Project\DTO\bin\Debug\net8.0\DTO.dll
+C:\Users\326238102\Source\Repos\.NetCore-Project\DTO\bin\Debug\net8.0\DTO.pdb
+C:\Users\326238102\Source\Repos\.NetCore-Project\DTO\bin\Debug\net8.0\Entities.dll
+C:\Users\326238102\Source\Repos\.NetCore-Project\DTO\bin\Debug\net8.0\Entities.pdb
+C:\Users\326238102\Source\Repos\.NetCore-Project\DTO\obj\Debug\net8.0\DTO.csproj.AssemblyReference.cache
+C:\Users\326238102\Source\Repos\.NetCore-Project\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\326238102\Source\Repos\.NetCore-Project\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+C:\Users\326238102\Source\Repos\.NetCore-Project\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+C:\Users\326238102\Source\Repos\.NetCore-Project\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\326238102\Source\Repos\.NetCore-Project\DTO\obj\Debug\net8.0\DTO.sourcelink.json
+C:\Users\326238102\Source\Repos\.NetCore-Project\DTO\obj\Debug\net8.0\DTO.csproj.CopyComplete
+C:\Users\326238102\Source\Repos\.NetCore-Project\DTO\obj\Debug\net8.0\DTO.dll
+C:\Users\326238102\Source\Repos\.NetCore-Project\DTO\obj\Debug\net8.0\refint\DTO.dll
+C:\Users\326238102\Source\Repos\.NetCore-Project\DTO\obj\Debug\net8.0\DTO.pdb
+C:\Users\326238102\Source\Repos\.NetCore-Project\DTO\obj\Debug\net8.0\DTO.genruntimeconfig.cache
+C:\Users\326238102\Source\Repos\.NetCore-Project\DTO\obj\Debug\net8.0\ref\DTO.dll
+C:\Users\326238102\Desktop\.NetCore-Project\DTO\bin\Debug\net8.0\DTO.exe
+C:\Users\326238102\Desktop\.NetCore-Project\DTO\bin\Debug\net8.0\DTO.deps.json
+C:\Users\326238102\Desktop\.NetCore-Project\DTO\bin\Debug\net8.0\DTO.runtimeconfig.json
+C:\Users\326238102\Desktop\.NetCore-Project\DTO\bin\Debug\net8.0\DTO.dll
+C:\Users\326238102\Desktop\.NetCore-Project\DTO\bin\Debug\net8.0\DTO.pdb
+C:\Users\326238102\Desktop\.NetCore-Project\DTO\bin\Debug\net8.0\Entities.dll
+C:\Users\326238102\Desktop\.NetCore-Project\DTO\bin\Debug\net8.0\Entities.pdb
+C:\Users\326238102\Desktop\.NetCore-Project\DTO\obj\Debug\net8.0\DTO.csproj.AssemblyReference.cache
+C:\Users\326238102\Desktop\.NetCore-Project\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\326238102\Desktop\.NetCore-Project\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+C:\Users\326238102\Desktop\.NetCore-Project\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+C:\Users\326238102\Desktop\.NetCore-Project\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\326238102\Desktop\.NetCore-Project\DTO\obj\Debug\net8.0\DTO.sourcelink.json
+C:\Users\326238102\Desktop\.NetCore-Project\DTO\obj\Debug\net8.0\DTO.csproj.CopyComplete
+C:\Users\326238102\Desktop\.NetCore-Project\DTO\obj\Debug\net8.0\DTO.dll
+C:\Users\326238102\Desktop\.NetCore-Project\DTO\obj\Debug\net8.0\refint\DTO.dll
+C:\Users\326238102\Desktop\.NetCore-Project\DTO\obj\Debug\net8.0\DTO.pdb
+C:\Users\326238102\Desktop\.NetCore-Project\DTO\obj\Debug\net8.0\DTO.genruntimeconfig.cache
+C:\Users\326238102\Desktop\.NetCore-Project\DTO\obj\Debug\net8.0\ref\DTO.dll

@@ -19,13 +19,13 @@ const showUpdateForm = () => {
     showUserDetails();
 };
 
-const showUserDetails = async() => {
+const showUserDetails = async () => {
     console.log("show", currentUser);
-    document.getElementById("UserName").value = currentUser.userName.trim();
-    document.getElementById("LastName").value = currentUser.lastName.trim();
-    document.getElementById("Password").value = currentUser.password.trim();
-    document.getElementById("FirstName").value = currentUser.firstName.trim();
-    document.getElementById("Email").value = currentUser.email.trim();
+    document.getElementById("UserName").value = await currentUser.userName.trim();
+    document.getElementById("LastName").value = await currentUser.lastName.trim();
+    document.getElementById("Password").value = await currentUser.password.trim();
+    document.getElementById("FirstName").value = await currentUser.firstName.trim();
+    document.getElementById("Email").value = await currentUser.email.trim();
     await checkPasswordStrength(currentUser.password.trim())
 }
 

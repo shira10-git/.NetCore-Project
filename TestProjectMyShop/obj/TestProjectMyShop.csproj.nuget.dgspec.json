@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\TestProjectMyShop\\TestProjectMyShop.csproj": {}
+    "C:\\Users\\326238102\\Desktop\\.NetCore-Project\\TestProjectMyShop\\TestProjectMyShop.csproj": {}
   },
   "projects": {
-    "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\DTO\\DTO.csproj": {
+    "C:\\Users\\326238102\\Desktop\\.NetCore-Project\\DTO\\DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\DTO\\DTO.csproj",
+        "projectUniqueName": "C:\\Users\\326238102\\Desktop\\.NetCore-Project\\DTO\\DTO.csproj",
         "projectName": "DTO",
-        "projectPath": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\DTO\\DTO.csproj",
+        "projectPath": "C:\\Users\\326238102\\Desktop\\.NetCore-Project\\DTO\\DTO.csproj",
         "packagesPath": "C:\\Users\\326238102\\.nuget\\packages\\",
-        "outputPath": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\DTO\\obj\\",
+        "outputPath": "C:\\Users\\326238102\\Desktop\\.NetCore-Project\\DTO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\Models\\Entities.csproj": {
-                "projectPath": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\Models\\Entities.csproj"
+              "C:\\Users\\326238102\\Desktop\\.NetCore-Project\\Models\\Entities.csproj": {
+                "projectPath": "C:\\Users\\326238102\\Desktop\\.NetCore-Project\\Models\\Entities.csproj"
               }
             }
           }
@@ -67,14 +67,14 @@
         }
       }
     },
-    "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\Models\\Entities.csproj": {
+    "C:\\Users\\326238102\\Desktop\\.NetCore-Project\\Models\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\Models\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\326238102\\Desktop\\.NetCore-Project\\Models\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\Models\\Entities.csproj",
+        "projectPath": "C:\\Users\\326238102\\Desktop\\.NetCore-Project\\Models\\Entities.csproj",
         "packagesPath": "C:\\Users\\326238102\\.nuget\\packages\\",
-        "outputPath": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\Models\\obj\\",
+        "outputPath": "C:\\Users\\326238102\\Desktop\\.NetCore-Project\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -126,14 +126,14 @@
         }
       }
     },
-    "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\Repository\\Repositories.csproj": {
+    "C:\\Users\\326238102\\Desktop\\.NetCore-Project\\Repository\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\Repository\\Repositories.csproj",
+        "projectUniqueName": "C:\\Users\\326238102\\Desktop\\.NetCore-Project\\Repository\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\Repository\\Repositories.csproj",
+        "projectPath": "C:\\Users\\326238102\\Desktop\\.NetCore-Project\\Repository\\Repositories.csproj",
         "packagesPath": "C:\\Users\\326238102\\.nuget\\packages\\",
-        "outputPath": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\Repository\\obj\\",
+        "outputPath": "C:\\Users\\326238102\\Desktop\\.NetCore-Project\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -154,11 +154,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\DTO\\DTO.csproj": {
-                "projectPath": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\DTO\\DTO.csproj"
+              "C:\\Users\\326238102\\Desktop\\.NetCore-Project\\DTO\\DTO.csproj": {
+                "projectPath": "C:\\Users\\326238102\\Desktop\\.NetCore-Project\\DTO\\DTO.csproj"
               },
-              "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\Models\\Entities.csproj": {
-                "projectPath": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\Models\\Entities.csproj"
+              "C:\\Users\\326238102\\Desktop\\.NetCore-Project\\Models\\Entities.csproj": {
+                "projectPath": "C:\\Users\\326238102\\Desktop\\.NetCore-Project\\Models\\Entities.csproj"
               }
             }
           }
@@ -204,14 +204,14 @@
         }
       }
     },
-    "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\TestProjectMyShop\\TestProjectMyShop.csproj": {
+    "C:\\Users\\326238102\\Desktop\\.NetCore-Project\\TestProjectMyShop\\TestProjectMyShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\TestProjectMyShop\\TestProjectMyShop.csproj",
+        "projectUniqueName": "C:\\Users\\326238102\\Desktop\\.NetCore-Project\\TestProjectMyShop\\TestProjectMyShop.csproj",
         "projectName": "TestProjectMyShop",
-        "projectPath": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\TestProjectMyShop\\TestProjectMyShop.csproj",
+        "projectPath": "C:\\Users\\326238102\\Desktop\\.NetCore-Project\\TestProjectMyShop\\TestProjectMyShop.csproj",
         "packagesPath": "C:\\Users\\326238102\\.nuget\\packages\\",
-        "outputPath": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\TestProjectMyShop\\obj\\",
+        "outputPath": "C:\\Users\\326238102\\Desktop\\.NetCore-Project\\TestProjectMyShop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -232,14 +232,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\DTO\\DTO.csproj": {
-                "projectPath": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\DTO\\DTO.csproj"
+              "C:\\Users\\326238102\\Desktop\\.NetCore-Project\\DTO\\DTO.csproj": {
+                "projectPath": "C:\\Users\\326238102\\Desktop\\.NetCore-Project\\DTO\\DTO.csproj"
               },
-              "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\Models\\Entities.csproj": {
-                "projectPath": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\Models\\Entities.csproj"
+              "C:\\Users\\326238102\\Desktop\\.NetCore-Project\\Models\\Entities.csproj": {
+                "projectPath": "C:\\Users\\326238102\\Desktop\\.NetCore-Project\\Models\\Entities.csproj"
               },
-              "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\Repository\\Repositories.csproj": {
-                "projectPath": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\Repository\\Repositories.csproj"
+              "C:\\Users\\326238102\\Desktop\\.NetCore-Project\\Repository\\Repositories.csproj": {
+                "projectPath": "C:\\Users\\326238102\\Desktop\\.NetCore-Project\\Repository\\Repositories.csproj"
               }
             }
           }

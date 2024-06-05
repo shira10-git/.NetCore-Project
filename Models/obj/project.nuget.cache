@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vPc+X3UtuteX9AcemEYeCNup9jVFHRhNo0/XpsQW6fiAJJGlhc1QW96BdQ0WF1Ustft6/wK6VfUx5Al/Flnhfg==",
+  "dgSpecHash": "943Jb9sBGVJyGmhFAS1YId+nU67LBNiqag3T3nVKVo7cBfo4o5I8RHaQuYL+nymwXjfrGy67lYTMwyetrRxO6A==",
   "success": true,
-  "projectFilePath": "M:\\WepApi\\PROJECT\\New folder\\MyWebApiTests\\Models\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\326238102\\Desktop\\.NetCore-Project\\Models\\Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
