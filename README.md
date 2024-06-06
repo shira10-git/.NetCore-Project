@@ -1,3 +1,5 @@
+# Welcome to our Books store
+
 How to use our project: In order to run this project you need: VS 2022 version (and on). .net 7 (and on). DB- SQL server. 
 For creating the DB, you can use code-first abilities. All what you need is: Open your package manager console, Write: add-migration [DataBaseName] and then: Update-DataBase.
 
