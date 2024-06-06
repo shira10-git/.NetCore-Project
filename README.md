@@ -1,6 +1,6 @@
 # Welcome to our Books store
 
-How to use our project: In order to run this project you need: VS 2022 version (and on). .net 7 (and on). DB- SQL server. 
+How to use our project: In order to run this project you need: VS 2022 version (and on). .net 8 (and on). DB- SQL server. 
 For creating the DB, you can use code-first abilities. All what you need is: Open your package manager console, Write: add-migration [DataBaseName] and then: Update-DataBase.
 
 And the DB is ready for use!
@@ -11,7 +11,7 @@ It includes a login page, when the user gets an option of registering in case of
 After a successfuly login, you get to a page that offers you to update your user details, or getting into the store. In the store page you can add products to your cart, that is saved in the session storage. 
 There is an option of filtering the products that you see using category, words from product description, minimum price or maximum price as parameters. 
 You can click and go to your cart page, where you can see your cart, remove products from it, and save your order. 
-Our project in .net7,wrriten by web API .net core and follows the REST architecture principles. we used SQL server database. 
+Our project in .net8,wrriten by web API .net core and follows the REST architecture principles. we used SQL server database. 
 We used ORM of Entity Framework by database first.
 
 We have maintained password strength using the nuget package zxcvbn-core. 
