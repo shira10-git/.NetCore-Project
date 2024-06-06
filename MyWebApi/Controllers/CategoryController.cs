@@ -24,20 +24,21 @@ namespace MyWebApi.Controllers
         }
 
         [HttpGet]
-        public async Task<ActionResult<List<Category>>> GetAllCategories()
+        public async Task<ActionResult<List<CategoryDTO>>> GetAllCategories()
         {
             var categories = await _categoryService.Get();
 
             if (categories.Any())
             {
-                return Ok(categories);
+                var categoriesDto = _mapper.Map<List<Category>, List<CategoryDTO>>(categories);
+                return Ok(categoriesDto);
             }
 
             return NoContent();
         }
 
         [HttpGet("{id}")]
-        public async Task<ActionResult<Category>> GetCategoryById(int id)
+        public async Task<ActionResult<CategoryDTO>> GetCategoryById(int id)
         {
             try
             {
@@ -45,7 +46,8 @@ namespace MyWebApi.Controllers
 
                 if (category != null)
                 {
-                    return Ok(category);
+                    var returnCategory = _mapper.Map<Category, CategoryDTO>(category);
+                    return Ok(returnCategory);
                 }
 
                 return NoContent();

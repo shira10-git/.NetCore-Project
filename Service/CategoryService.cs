@@ -23,7 +23,7 @@ namespace Services
             return category;
         }
 
-        public async Task<List<Category>> Get(int id)
+        public async Task<Category> Get(int id)
         {
             var category = await _categoryRepository.Get(id);
             return category;

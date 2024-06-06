@@ -96,7 +96,7 @@ const createOrder = async () => {
             return result;
         }
     } catch (error) {
-        console.error("Error creating order:", error);
+        //console.error("Error creating order:", error);
         alert("An error occurred while creating the order");
     }
 };

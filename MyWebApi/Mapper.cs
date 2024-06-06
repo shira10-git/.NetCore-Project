@@ -33,6 +33,12 @@ namespace MyWebApi
 
             CreateMap<Order, OrderReturnDTO>();
 
+            CreateMap<Category, CategoryDTO>();
+
+            CreateMap<CategoryDTO, Category>();
+
+
+
         }
     }
 

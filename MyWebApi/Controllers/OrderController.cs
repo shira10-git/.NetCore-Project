@@ -66,8 +66,7 @@ namespace MyWebApi.Controllers
         public IEnumerable<string> GetAllOrders()
         {
             return null;
-            // Uncomment and implement actual logic if needed
-            // return new string[] { "value1", "value2" };
+            
         }
 
         [HttpPost]

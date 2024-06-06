@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JMdccoyMvC/Ikbm60pNKMb7eMC1LCV6jMsaPGp392/hp8ctF5rFzVbslD/EW6Zi6wCt4sffqczus1xpIQV+wAg==",
+  "dgSpecHash": "vZqs0JnDgV3j6dY3RP5rd8E/OZLonHcf+ZWSKdhLXnDf30vss1e1Ojv090lGpQd7BXiiX9LZEhGP+oj91yHipg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\Repository\\Repositories.csproj",
+  "projectFilePath": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\Repository\\Repositories.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\326238102\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\326238102\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

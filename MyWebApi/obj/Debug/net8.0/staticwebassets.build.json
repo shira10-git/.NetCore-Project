@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "aLaom07gdKTGKfgafw0ssEedB3LCz492LOsITdYn3nQ=",
+  "Hash": "paHejokcnu2+NhfsU1J8qMv+w8UkBxqgwi7NOFi+LpA=",
   "Source": "MyWebApi",
   "BasePath": "_content/MyWebApi",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "MyWebApi\\wwwroot",
       "Source": "MyWebApi",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Home.html",
+      "Identity": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Home.html",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Home.html",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\Home.html"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\achTovVachesed.png",
+      "Identity": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\achTovVachesed.png",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Images/achTovVachesed.png",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\achTovVachesed.png"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\adamaPrait.png",
+      "Identity": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\adamaPrait.png",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Images/adamaPrait.png",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\adamaPrait.png"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\almonitMiktzeAmachane.png",
+      "Identity": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\almonitMiktzeAmachane.png",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Images/almonitMiktzeAmachane.png",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\almonitMiktzeAmachane.png"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\BagActive.png",
+      "Identity": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\BagActive.png",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Images/BagActive.png",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\BagActive.png"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\book1.jpg",
+      "Identity": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\book1.jpg",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Images/book1.jpg",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\book1.jpg"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\book2.JPG",
+      "Identity": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\book2.JPG",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Images/book2.JPG",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\book2.JPG"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\earShelTayasim.png",
+      "Identity": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\earShelTayasim.png",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Images/earShelTayasim.png",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\earShelTayasim.png"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\emetOhChova.png",
+      "Identity": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\emetOhChova.png",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Images/emetOhChova.png",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\emetOhChova.png"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\esaEnay.png",
+      "Identity": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\esaEnay.png",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Images/esaEnay.png",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\esaEnay.png"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\gilgooloShelShekel.png",
+      "Identity": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\gilgooloShelShekel.png",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Images/gilgooloShelShekel.png",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\gilgooloShelShekel.png"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\hamalechHabaBator.png",
+      "Identity": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\hamalechHabaBator.png",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Images/hamalechHabaBator.png",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\hamalechHabaBator.png"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\hitnakshoot.png",
+      "Identity": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\hitnakshoot.png",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Images/hitnakshoot.png",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\hitnakshoot.png"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\hnormaliHacharon.png",
+      "Identity": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\hnormaliHacharon.png",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Images/hnormaliHacharon.png",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\hnormaliHacharon.png"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\icn-remove.png",
+      "Identity": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\icn-remove.png",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Images/icn-remove.png",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\icn-remove.png"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\kiAtaEamadi.png",
+      "Identity": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\kiAtaEamadi.png",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Images/kiAtaEamadi.png",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\kiAtaEamadi.png"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\kolYeledTzarichMakom.png",
+      "Identity": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\kolYeledTzarichMakom.png",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Images/kolYeledTzarichMakom.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\kolYeledTzarichMakom.png"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\loleyEemanty.png",
+      "Identity": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\loleyEemanty.png",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Images/loleyEemanty.png",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\loleyEemanty.png"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\macatMachatz.png",
+      "Identity": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\macatMachatz.png",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Images/macatMachatz.png",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\macatMachatz.png"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\magenEnoshi.png",
+      "Identity": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\magenEnoshi.png",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Images/magenEnoshi.png",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\magenEnoshi.png"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\mevokash.png",
+      "Identity": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\mevokash.png",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Images/mevokash.png",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\mevokash.png"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\patchooli.png",
+      "Identity": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\patchooli.png",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Images/patchooli.png",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\patchooli.png"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\platzevo.png",
+      "Identity": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\platzevo.png",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Images/platzevo.png",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\platzevo.png"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\searchIcon.svg",
+      "Identity": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\searchIcon.svg",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Images/searchIcon.svg",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\searchIcon.svg"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\shfoyaBashevi.png",
+      "Identity": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\shfoyaBashevi.png",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Images/shfoyaBashevi.png",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\shfoyaBashevi.png"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\shomeretHashearim.png",
+      "Identity": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\shomeretHashearim.png",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Images/shomeretHashearim.png",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\shomeretHashearim.png"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\tehomot.png",
+      "Identity": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\tehomot.png",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Images/tehomot.png",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\tehomot.png"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\tvachEfes.png",
+      "Identity": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\tvachEfes.png",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Images/tvachEfes.png",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\tvachEfes.png"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\yaldeyShay4.png",
+      "Identity": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\yaldeyShay4.png",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Images/yaldeyShay4.png",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\yaldeyShay4.png"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\yehunatanHakatan.png",
+      "Identity": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\yehunatanHakatan.png",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Images/yehunatanHakatan.png",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\yehunatanHakatan.png"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\ylyedShashooim.png",
+      "Identity": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Images\\ylyedShashooim.png",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Images/ylyedShashooim.png",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ylyedShashooim.png"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Products.html",
+      "Identity": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Products.html",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Products.html",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\Products.html"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\README.md",
+      "Identity": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\README.md",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "README.md",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\README.md"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Scripts\\Home.js",
+      "Identity": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Scripts\\Home.js",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Scripts/Home.js",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\Scripts\\Home.js"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Scripts\\Products.js",
+      "Identity": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Scripts\\Products.js",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Scripts/Products.js",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\Scripts\\Products.js"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Scripts\\ShippingBage.js",
+      "Identity": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Scripts\\ShippingBage.js",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Scripts/ShippingBage.js",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\Scripts\\ShippingBage.js"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Scripts\\User.js",
+      "Identity": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Scripts\\User.js",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Scripts/User.js",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\Scripts\\User.js"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\ShoppingBag.html",
+      "Identity": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\ShoppingBag.html",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "ShoppingBag.html",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\ShoppingBag.html"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Style\\Home.css",
+      "Identity": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Style\\Home.css",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Style/Home.css",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\Home.css"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Style\\Products.css",
+      "Identity": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Style\\Products.css",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Style/Products.css",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\Products.css"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Style\\ShoppingBag.css",
+      "Identity": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Style\\ShoppingBag.css",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Style/ShoppingBag.css",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\ShoppingBag.css"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Style\\User.css",
+      "Identity": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\Style\\User.css",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "Style/User.css",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\Style\\User.css"
     },
     {
-      "Identity": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\User.html",
+      "Identity": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\User.html",
       "SourceId": "MyWebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\326238102\\Desktop\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
+      "ContentRoot": "M:\\WepApi\\PROJECT\\להגשה\\.NetCore-Project\\MyWebApi\\wwwroot\\",
       "BasePath": "_content/MyWebApi",
       "RelativePath": "User.html",
       "AssetKind": "All",

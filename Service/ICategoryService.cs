@@ -10,6 +10,6 @@ namespace Services
     public interface ICategoryService
     {
         Task<List<Category>> Get();
-        Task<List<Category>> Get(int id);
+        Task<Category> Get(int id);
     }
 }
