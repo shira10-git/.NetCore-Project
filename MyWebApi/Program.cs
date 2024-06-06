@@ -4,6 +4,7 @@ using NLog.Web;
 using PresidentsApp.Middlewares;
 using Repositories;
 using Services;
+using System.Reflection.Metadata.Ecma335;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddScoped<IUserService, UserService>();
@@ -45,5 +46,6 @@ app.UseRoutingMiddleware();
 app.MapControllers();
 
 app.UseStaticFiles();
+
 
 app.Run();
