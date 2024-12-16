@@ -11,7 +11,7 @@ For creating the DB, you can use code-first abilities.
 All what you need is:  
 Open your package manager console,  
 Write: `add-migration [DataBaseName]`  
-and then: `Update-Database`.  
+and then: `Update-Database` .  
 
 And the DB is ready for use!  
 
